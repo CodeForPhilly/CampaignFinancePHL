@@ -4,7 +4,7 @@ A project to improve access to/report on/organize Philadelphia's public campaign
 
 Based on <a href='http://opendisclosure.io' target='_blank'>Open Disclosure Oakland</a>, but currently not using any code directly.
 
-Grabbing Philly campaign finance data from the city's <a href='ftp://ftp.phila-records.com/' target='_blank'>ftp store</a>. Also check out the <a href='http://www.phila.gov/ethicsboard/campaignfinance/Pages/default.aspx' target='_blank'>Board of Ethics page</a> and the <a href='http://www.phila.gov/records/campaignfinance/CampaignFinance.html' target='_blank'>Reports page</a>.
+Grabbing Philly campaign finance data from the city's ftp store `ftp://ftp.phila-records.com/`. Also check out the <a href='http://www.phila.gov/ethicsboard/campaignfinance/Pages/default.aspx' target='_blank'>Board of Ethics page</a> and the <a href='http://www.phila.gov/records/campaignfinance/CampaignFinance.html' target='_blank'>Reports page</a>.
 
 ###Project Status/TODO:###
 
@@ -19,3 +19,4 @@ Grabbing Philly campaign finance data from the city's <a href='ftp://ftp.phila-r
 	- [ ] Totals by candidate (see Oakland's)
 	- [ ] Mapping
 	- [ ] Spending by unaffiliated committees (need to figure this out)
+- [ ] Create an admin frontend to manage candidates and other manual entities

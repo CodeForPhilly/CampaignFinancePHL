@@ -22,6 +22,6 @@ db.once('open', function() {
 			console.log(err);
 			console.log('Could not drop collection. Proceeding anyway...');
 		}
-		directoryTraverser.processFiles('raw-data/2011/2011 Cycle 6/Nutter for Mayor', csvProcessor, cleanup);
+		directoryTraverser.processFiles('../raw-data/2011/2011 Cycle 6/Nutter for Mayor', csvProcessor, cleanup);
 	});
 });
