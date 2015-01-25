@@ -1,0 +1,4 @@
+1776340,2011,6,"IC","IBEW Local #98","1701 Spring Garden Street","","Philadelphia","PA","191303996","","","","","","PA","","20111104",20000,"",,"",,"donation"
+1776340,2011,6,"ID","Neil Model","6 Dunham Lane","","Newtown","PA","18940","Consultant","Moidel Consulting","6 Dunham Lane","","Newtown","PA","18940","20111027",10000,"",,"",,"Donation"
+1776340,2011,6,"ID","John Parsons","725 Birch Avenue","","Bensalem","PA","19020","","PRF Partners","725 Birch Avenue","","Bensalem","PA","19020","20111114",1500,"",,"",,"donation"
+1776340,2011,6,"ID","Robert Brant","P.O. Box 26865","","Trappe","PA","19426","Owner","Brant and Associates","572 West Main Street","","Trappe","PA","19426","20111026",5000,"",,"",,"Donation"

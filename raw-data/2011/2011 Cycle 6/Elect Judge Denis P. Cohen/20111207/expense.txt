@@ -1,0 +1,5 @@
+2001007,2011,6,"Democratic City Committee","2301 Pennsylvania Ave.","","Philadelphia","PA","19130","20111026",3200,"Election Day Expenses",
+2001007,2011,6,"Republican City Committee","1700 Benjamin Franklin Parkway #B","","Philadelphia","PA","191032790","20111026",1000,"Election Day Expenses",
+2001007,2011,6,"53rd Ward Democratic Committee","7055 Dorcas Street","","Philadelphia","PA","19111","20111028",75,"Dinner Ticket",
+2001007,2011,6,"New Generation 1 PAC","1324 Alder Street","","Philadelphia","PA","19147","20111104",250,"Election Day Expenses",
+2001007,2011,6,"Democratic City Committee","2301 Pennsylvania Avenue","","Philadelphia","PA","19130","20111128",200,"Election Day Expenses",

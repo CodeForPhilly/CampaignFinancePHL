@@ -1,0 +1,3 @@
+9900082,2011,6,"IC","Democratic Campaign Committee","2301 Pennsylvania Ave.","","Philadelphia","PA","19130","","","","","","AK","","20111104",5400,"",,"",,""
+9900082,2011,6,"IC","Liberty Square PAC","123 S. Broad Street","","Philadelphia","PA","19109","","","","","","AK","","20111104",600,"",,"",,""
+9900082,2011,6,"IC","Friends of Darrell Clarke","P.O. Box 60093","","Philadelphia","PA","19102","","","","","","AK","","20111107",900,"",,"",,""

@@ -1,0 +1,2 @@
+8300035,2011,6,"Citizens Bank","20th and Market Street","","Philadelphia","PA","19103","Interest","20111031",0.83
+8300035,2011,6,"Inland American Real Estate Trust, Inc.","P.O. Box 219845","","Kansas City","MO","641219845","Interest/Dividends","20111031",88.25

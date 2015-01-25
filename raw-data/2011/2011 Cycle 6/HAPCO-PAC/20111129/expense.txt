@@ -1,0 +1,2 @@
+8300199,2011,6,"Friends of Jannie Blackwell","City Hall","Rm 408","Philadelphia","PA","19107","20111031",2000,"contribution",
+8300199,2011,6,"PNC Bank","PO Box 535230","","Pittsburgh","PA","152535230","20111031",3,"Service Charge",

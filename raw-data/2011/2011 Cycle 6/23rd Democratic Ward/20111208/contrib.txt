@@ -1,0 +1,2 @@
+1776222,2011,6,"IC","PAC 1742","7720 Castor Avenue","","Philadelphia","PA","19152","","","","","","AK","","20111104",1500,"",,"",,"GOTV"
+1776222,2011,6,"IC","Democratic City Committee","2301 Pennsylvania Avenue","","Philadelphia","PA","19103","","","","","","AK","","20111104",3450,"",,"",,"GOTV"

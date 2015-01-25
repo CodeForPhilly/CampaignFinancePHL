@@ -1,0 +1,5 @@
+1776331,2011,6,"LLewellyn Hunt","","","Philadelphia","PA","","20111108",120,"Election day services",
+1776331,2011,6,"SUNCOCO","","","Philadelphia","PA","","20111108",55.35,"Fuel for election day activities",
+1776331,2011,6,"Trolly car diner","","","Philadelphia","PA","","20111108",17.55,"Lunch for workers during election day",
+1776331,2011,6,"Amazon.Com","","","","WA","","20111027",155.97,"Purchase of advertising materials",
+1776331,2011,6,"Rite Aid","","","Philadelphia","PA","19103","20111031",15.52,"Purchase of advertising materials",

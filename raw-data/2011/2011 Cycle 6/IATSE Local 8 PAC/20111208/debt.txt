@@ -1,0 +1,5 @@
+2008397,2011,6,"IASTE Local 8","2237 Hartranft Street","","Philadelphia","PA","19145","20091007",1156.4,"reimbursed expenses",
+2008397,2011,6,"IATSE Local 8","2237 Hartranft Street","","Philadelphia","PA","19145","20091101",1614.47,"reimbursed expenses",
+2008397,2011,6,"IATSE Locall 8","2237 Hartranft St.","","Philadelphia","PA","19145","20091125",487.5,"reimbursed expense",
+2008397,2011,6,"IASTE Local 8","2237 Hartranft Street","","Philadelphia","PA","19145","20100408",451.25,"Reimbursed expenses",
+2008397,2011,6,"IASTE Local 8","2237 Hartranft Street","","Philadelphia","PA","19145","20100531",80,"Reimbursed expenses",

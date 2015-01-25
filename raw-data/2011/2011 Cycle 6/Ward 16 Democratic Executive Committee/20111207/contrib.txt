@@ -1,0 +1,8 @@
+9900251,2011,6,"IA","Committee to Elect Shirley Kitchen for Senator","PO Box 50606","","Philadelphia","PA","","","","","","","PA","","20111105",100,"",,"",,"Contribution"
+9900251,2011,6,"IC","Friends of Darrell Clarke","2839 W. Girard Ave","","Philadelphia","PA","19130","","","","","","PA","","20111107",900,"",,"",,"Contribution"
+9900251,2011,6,"IC","Citizens for Jewell  Williams","2343 N. Smedley St","","Philadelphia","PA","","","","","","","AK","","20111101",1500,"",,"",,"Contribution"
+9900251,2011,6,"IC","Friends of Jewell Williams","2224 N.Broad St","","Philadelphia","PA","","","","","","","AK","","20111118",1000,"",,"",,"Contribution"
+9900251,2011,6,"IC","Citizens for Jewell Williams","2343 N Smedley St","","Philadelphia","PA","19132","","","","","","PA","","20111106",3000,"",,"",,"Contribution"
+9900251,2011,6,"IC","Citizens for Jewell Williams","2343 N Smedley St","","Philadelphia","PA","19132","","","","","","PA","","20111120",1000,"",,"",,"Contribution"
+9900251,2011,6,"IB","Gwendolyn Collins","2211 W Uber St","","Philadelphia","PA","","","","","","","AK","","20111031",150,"",,"",,"Contribution"
+9900251,2011,6,"IB","Everette Brown","2341 W Cumberland St","","Philadelphia","PA","","","","","","","AK","","20111031",150,"",,"",,"Contribution"

@@ -1,0 +1,4 @@
+2001109,2011,6,"Barbara A. McDermott","951 Caledonia Street","","Philadelphia","PA","19128","20011231",23010.42,"loan",
+2001109,2011,6,"Barbara A. McDermott","951 Caledonia Street","","Philadelphia","PA","19128","20110404",5000,"loan",
+2001109,2011,6,"Barbara A. McDermott","951 Caledonia Street","","Philadelphia","PA","19128","20110502",25000,"loan",
+2001109,2011,6,"Barbara A. McDermott","951 Caledonia Street","","Philadelphia","PA","19128","20110509",15000,"loan",

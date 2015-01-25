@@ -1,0 +1,4 @@
+9200379,2011,6,"Thomas J. Knox","450 W. Chesnut Hill Avenue","","Philadelphia","PA","19118","19901025",15490.61,"Loan",
+9200379,2011,6,"Michael Karp","3416 Sansom Street","","Philadelphia","PA","19118","19901026",20000,"Loan",
+9200379,2011,6,"Mark A. Turnbull","156 Pelham Road","","Philadelphia","PA","19119","19910130",10000,"Loan",
+9200379,2011,6,"University City Housing","1062 Lancaster Avenue","","Rosemont","PA","19010","19910510",20000,"Loan",

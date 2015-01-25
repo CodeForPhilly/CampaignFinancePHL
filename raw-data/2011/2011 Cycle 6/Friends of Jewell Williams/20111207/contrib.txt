@@ -1,0 +1,4 @@
+2000215,2011,6,"ID","Bruce & Deborah Williams","2109 W. Diamond St","","Philadelphia","PA","19132","Doctor","Self Employed","2109 W. Diamond St","","Philadelphia","PA","19132","20111026",1000,"",,"",,"Contribution"
+2000215,2011,6,"IC","Students Pac","PO Box 416","","Wynnewood","PA","19096","","","","","","PA","","20111107",10000,"",,"",,"Contribution"
+2000215,2011,6,"IA","Psea Pace","400 N Third St","PO Box 1724","Harrisburgh","PA","17105","","","","","","PA","","20111026",250,"",,"",,"Contribution"
+2000215,2011,6,"IA","Phila Pac","The Belleveue Suite 850","200 South Broad St","Philadelphia","PA","19102","","","","","","PA","","20111107",250,"",,"",,"Contribution"

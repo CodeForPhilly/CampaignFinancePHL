@@ -1,0 +1,5 @@
+8200336,2011,6,"Wells Fargo","217 W. Baltimore Avenue","","Media","PA","19014","20111027",254.3,"Service Charges",
+8200336,2011,6,"Wells Fargo","217 W. Baltimore Avenue","","Media","PA","19014","20111127",238.11,"Service Charges",
+8200336,2011,6,"Republican Party of Chester County","15 South Church Street","","West Chester","PA","19382","20111026",1000,"Contribution",
+8200336,2011,6,"Brown/ Castor 2","800 Penllyn Blue Bell Pike","","Blue Bell","PA","19422","20111107",500,"Contribution",
+8200336,2011,6,"Shapiro/Richards","PO Box 241","","Abington","PA","19001","20111107",500,"Contribution",

@@ -1,0 +1,3 @@
+2011194,2011,6,"IC","Friends of Al Schmidt","P.O. Box 18538","","Philadelphia","PA","19129","","","","","","AK","","20111110",500,"",,"",,"Contribution"
+2011194,2011,6,"IB","Angelo & Linda Ricci","4640 Oakland Street","","Philadelphia","PA","19124","","","","","","AK","","20111110",50,"",,"",,"Contribution"
+2011194,2011,6,"IB","Walter F. Vogler","712 Hill Road","","Philadelphia","PA","19128","","","","","","AK","","20111110",70,"",,"",,"Contribution"

@@ -1,0 +1,2 @@
+1776234,2011,6,"IC","Nutter For Mayor","17 South 15th St","","philadelphia","PA","19107","","","","","","AK","","20111104",7500,"",,"",,"contrubation"
+1776234,2011,6,"IC","Democratic Campaign Committee","1421 Walnut st","","Philadelphia","PA","19102","","","","","","AK","","20111104",4900,"",,"",,"Contrubition"

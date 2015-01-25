@@ -1,0 +1,2 @@
+8200336,2011,6,"Wells Fargo Bank","217 W. Baltimore Avenue","","Media","PA","19063","Bank Interest","20111027",1.99
+8200336,2011,6,"Wells Fargo","217 W. Baltimore Avenue","","Media","PA","19014","Bank Interest","20111127",2

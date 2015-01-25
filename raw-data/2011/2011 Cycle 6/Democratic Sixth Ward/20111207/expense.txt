@@ -1,0 +1,8 @@
+0,2011,6,"E-Day Workers & Rovers","","","Philadelphia","Pe","","20111108",5700,"E-Day Expense",
+0,2011,6,"E-Day Breakfast & Lunch","","","Philadelphia","PA","","20111108",2628,"E-Day Expense Meals",
+0,2011,6,"Candidates Night","","","Philadelphia","PA","","20111007",350,"Candidates Night Expense",
+0,2011,6,"Ward Meeting Expense","","","Philadelphia","Pe","","20111018",350,"Ward Meeting Expense",
+0,2011,6,"Ward Meeting ","","","Philadelphia","Pe","","20111105",350,"Ward Meeting Expense",
+0,2011,6,"E-Day Operations","","","Philadelphia","Pe","","20111029",500,"",
+0,2011,6,"Turkey Donations to Ward","","","Philadelphia","Pe","","20111121",800,"",
+0,2011,6,"CND PAC","","","Philadelphia","PA","","20111015",500,"Donation",

@@ -1,0 +1,2 @@
+9200057,2011,6,"IC","IBEW COPE","900 Seventh Street NW","","Washington","DC","20001","","","","","","AK","","20111115",10000,"",,"",,"Contribution"
+9200057,2011,6,"IC","Law PAC","800 N. Thrid Street","","Harrisburg","PA","17102","","","","","","AK","","20111115",1500,"",,"",,"Contribution"

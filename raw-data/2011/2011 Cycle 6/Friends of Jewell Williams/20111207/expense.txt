@@ -1,0 +1,5 @@
+2000215,2011,6,"Regina Smith","2252 N Woodstock St","","Philadelphia","PA","19132","20111031",100,"Accounting Services",
+2000215,2011,6,"Citizens Bank","1500 N Broad St.","","Philadelphia","PA","","20111031",22,"Monthly Bank Fee",
+2000215,2011,6,"16th Ward","2315 W. Cumberland St","","Philadelphia","PA","","20111107",2000,"Contribution",
+2000215,2011,6,"16th Ward","2315 W. Cumberland St","","Philadelphia","PA","","20111118",1000,"Contribution",
+2000215,2011,6,"Tenth Memorial Baptist Church","1328 N. 19th St","","Philadelphia","PA","","20111125",350,"Contribution",

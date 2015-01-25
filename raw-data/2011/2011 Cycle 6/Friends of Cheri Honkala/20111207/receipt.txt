@@ -1,0 +1,6 @@
+1776285,2011,6,"Belinda Davis","351 E. Gowen Avenue","","Philadelphia","PA","19119","t-shirt dale","20111030",10
+1776285,2011,6,"Carol McLean","431 W. Rittenhouse Street","","Philadelphia","PA","19144","t-shirt sale","20111030",10
+1776285,2011,6,"Patricia Biedron","2506 Collins St","","Philadelphia","PA","19125","t-shirt sale","20111030",10
+1776285,2011,6,"Margherita Larson","511 Woodland Terrace","","Philadelphia","PA","19104","t-shirt sale","20111030",10
+1776285,2011,6,"Jean Merritt","1111 Winton St","","Philadelphia","PA","19148","t-shirt sale","20111030",10
+1776285,2011,6,"Intellicomm Inc.","2701 Renaissance Blvd.","","King of Prussia","PA","19406","refund","20111128",7.85

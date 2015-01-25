@@ -1,0 +1,2 @@
+80094,2011,6,"IA","Pennsylvanians for Representative Cohen","1415 Brighton Street","","Philadelphia","PA","19115","","","","","","AK","","20111106",13,"",,"",,"Reimburse Notary of 10/28/11"
+80094,2011,6,"IC","Pennsylvanians for Representative Cohen","105 Cliffwood Road","","Philadephia","PA","19115","","","","","","AK","","20111124",500,"",,"",,"Reimbursement"

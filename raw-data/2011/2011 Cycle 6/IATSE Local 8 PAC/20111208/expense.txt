@@ -1,0 +1,2 @@
+2008397,2011,6,"J P Tees Inc","2930 Richmond St","","Philadelphia","PA","19134","20111110",900,"Fundraiser expense",
+2008397,2011,6,"Bookminders","1010 Western Ave.  Ste. 400","","Pittsburg","PA","15233","20111110",147.25,"Accounting expense",

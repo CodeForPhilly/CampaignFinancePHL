@@ -1,0 +1,5 @@
+2000278,2011,6,"Mary Ellen Wons","2805 Fanshawe Street","","Philadelphia","PA","19149","20111108",45.64,"Reimbursement copying costs Ward Letter",
+2000278,2011,6,"Fanshawe Deli","3200 Fanshawe Street","","Philadelphia","PA","19149","20111108",550,"Food for Election Day",
+2000278,2011,6,"Robert N. Delalvella","3200 Magee Avenue","","Philadelphia","PA","19149","20111108",9300,"Reimbursement of Ward Election Day Expenses, Vouchers on Record",
+2000278,2011,6,"Knights of Columbus","Knorr St. and Rowland Ave.","","Philadelphia","PA","19149","20111108",116,"Election Day Venue",
+2000278,2011,6,"Democratic Campaign Committee","2301 Pennsylvania Avenue","","Philadelphia","PA","19130","20111108",600,"Democratic City Committee Fall Dinner Tickets",

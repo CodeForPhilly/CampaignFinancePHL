@@ -1,0 +1,7 @@
+8300181,2011,6,"New Generation Pac","1324 So. Alder Street","","Philadelphia","PA","19147","20111018",1000,"contribution",
+8300181,2011,6,"Shapiro/Richards","P.O. Box 24","","ABington","PA","19001","20111028",2500,"contribution",
+8300181,2011,6,"Area 11 Democrats","2203 Old Arch Road","","East Norriton","PA","19401","20111101",1000,"contribution",
+8300181,2011,6,"Deptford Democratic Team","212 Heather Court","","Sewell","NJ","08080","20111101",500,"contribution",
+8300181,2011,6,"BCDC","10 East Court St.","","Doylestown","PA","18901","20111104",1000,"contribution",
+8300181,2011,6,"McCaffery for Attorney General","P.o. Box 22387","","Philadelphia","PA","10110","20111115",1000,"contribution",
+8300181,2011,6,"Friends of Farnese","P.O. Box 22596","","Philadelphia","PA","19110","20111111",1000,"contribution",

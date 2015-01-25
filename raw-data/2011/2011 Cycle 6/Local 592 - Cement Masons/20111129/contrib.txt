@@ -1,0 +1,5 @@
+8300181,2011,6,"IA","Cement Masons Pac Committee","2843 Snyder Ave","","Philadelphia","PA","19145","","","","","","AK","","20111018",151.79,"",,"",,"member participation"
+8300181,2011,6,"IC","Cement Masons Pac Committee","2843  Snyder Ave.","","Philadelphia","PA","19145","","","","","","AK","","20111018",4819.3,"",,"",,"member participation"
+8300181,2011,6,"IC","Cement Masons Pac Committee","2843 Snyder Ave.","","Philadelphia","PA","19145","","","","","","AK","","20111115",2706.66,"",,"",,"member participation"
+8300181,2011,6,"IC","Cement Masons Pac Committee","2843 Snyder Ave.","","Philadelhpia","PA","19145","","","","","","AK","","20111129",284.74,"",,"",,"member participation"
+8300181,2011,6,"IC","Cement Masons Pac Committee","2843 Snyder Ave.","","Philadelphia","PA","19145","","","","","","","","20111129",4188.84,"",,"",,"member participation"

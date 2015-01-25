@@ -1,0 +1,3 @@
+7900169,2011,6,"Wayne Moving & Storage of NJ, Inc.","100 Lawrence Drive","","West Chester","PA","193804253","Collection of Returned Check for Payroll Deductions","20111108",30
+7900169,2011,6,"Citizens Bank","2910 Cottman Avenue","","Philadelphia","PA","191491437","Interest","20111031",5.62
+7900169,2011,6,"Philadelphia Federal Credit Union","12800 Townsend Road","","Philadelphia","PA","191541003","Dividends","20111031",276.71

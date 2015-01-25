@@ -1,0 +1,49 @@
+8400128,2011,6,"Darden, Michael","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111025",50
+8400128,2011,6,"Darden, Michael","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111116",40
+8400128,2011,6,"Argeros, Charles","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111025",50
+8400128,2011,6,"Argeros, Charles","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111116",60
+8400128,2011,6,"Lane, Jerome","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111025",50
+8400128,2011,6,"Lane, Jerome","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111116",50
+8400128,2011,6,"Smith, James, Jr.","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111025",50
+8400128,2011,6,"Smith, James, Jr.","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111116",60
+8400128,2011,6,"Gaorfal, George","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111122",60
+8400128,2011,6,"Kashow, Fed","2833 Cottman Avenue","","Philadelphia","PA","19149","","20111122",60
+8400128,2011,6,"Reice, Brian","1363 W. Cheltenham Avenue","","Elkins Park","PA","19027","","20111025",40
+8400128,2011,6,"Reice, Brian","1363 W. Cheltenham Avenue","","Elkins Park","PA","19027","","20111104",40
+8400128,2011,6,"Delloso, David","1 East 15th Street","","Chester","PA","19013","","20111025",40
+8400128,2011,6,"Delloso, David","1 East 15th Street","","Chester","PA","19013","","20111104",40
+8400128,2011,6,"Zolenski, Frank","1 East 15th Street","","Chester","PA","19013","","20111025",40
+8400128,2011,6,"Zolenski, Frank","1 East 15th Street","","Chester","PA","19013","","20111104",40
+8400128,2011,6,"King, Marcus","PO Box 1073","","Pleasantville","NJ","08232","","20111025",50
+8400128,2011,6,"King, Marcus","PO Box 1073","","Pleasantville","NJ","08232","","20111104",40
+8400128,2011,6,"Concordia, Paul","PO Box 15222","","Reading","PA","19612","","20111025",40
+8400128,2011,6,"Concordia, Paul","PO Box 15222","","Reading","PA","19612","","20111122",50
+8400128,2011,6,"Strause, Jeffrey","PO Box 15222","","Reading","PA","19612","","20111025",40
+8400128,2011,6,"Strause, Jeffrey","PO Box 15222","","Reading","PA","19612","","20111122",50
+8400128,2011,6,"Youst, Keith","P.O. Box 15222","","Reading","PA","19612","","20111025",40
+8400128,2011,6,"Youst, Keith","P.O. Box 15222","","Reading","PA","19612","","20111122",50
+8400128,2011,6,"Shappell, William","PO Box 15222","","Reading","PA","19612","","20111025",40
+8400128,2011,6,"Shappell, William","PO Box 15222","","Reading","PA","19612","","20111122",50
+8400128,2011,6,"Deal, Richard","1375 Virginia Dr., Suite 203","","Ft. Washington","PA","19034","","20111122",200
+8400128,2011,6,"Fogarty, John M., Sr.","1375 Virginia Dr., Suite 203","","Ft. Washington","PA","19149","","20111122",200
+8400128,2011,6,"Ryder, Joseph","1375 Virginia Dr., Suite 203","","Ft. Washington","PA","19149","","20111122",200
+8400128,2011,6,"Ryder, Robert","1375 Virginia Dr., Suite 203","","Ft. Washington","PA","19149","","20111122",200
+8400128,2011,6,"Felice, Thomas","814 North Second Street","","Harrisburg","PA","17102","","20111025",50
+8400128,2011,6,"Felice, Thomas","814 North Second Street","","Harrisburg","PA","17102","","20111104",40
+8400128,2011,6,"Laigaie, John","614 N. Front Street","","Philadelphia","PA","19123","","20111025",50
+8400128,2011,6,"Laigaie, John","614 N. Front Street","","Philadelphia","PA","19123","","20111116",40
+8400128,2011,6,"Dagle, John","614 N. Front Street","","Philadelphia","PA","19123","","20111025",50
+8400128,2011,6,"Dagle, John","614 N. Front Street","","Philadelphia","PA","19123","","20111116",40
+8400128,2011,6,"Rowe, Jock","Executive Plaza","","Ft. Washington","PA","19034","","20111025",50
+8400128,2011,6,"Rowe, Jock","Executive Plaza","","Ft. Washington","PA","19034","","20111116",40
+8400128,2011,6,"Banus, Stephen","1345 Hamilton Street","","Allentown","PA","18102","","20111025",50
+8400128,2011,6,"Banus, Stephen","1345 Hamilton Street","","Allentown","PA","18102","","20111104",40
+8400128,2011,6,"LaCroix, Keith","2552 Jefferson Street","","Harrisburg","PA","17110","","20111025",130
+8400128,2011,6,"LaCroix, Keith","2552 Jefferson Street","","Harrisburg","PA","17110","","20111116",65
+8400128,2011,6,"Olmeda, William","2552 Jefferson Street","","Harrisburg","PA","17110","","20111025",52
+8400128,2011,6,"Olmeda, William","2552 Jefferson Street","","Harrisburg","PA","17110","","20111116",26
+8400128,2011,6,"Teamsters Local 500 PAC","3460 N. Delaware Avenue","","Philadelphia","PA","19134","","20111025",128
+8400128,2011,6,"Teamsters Local 500 PAC","3460 N. Delaware Avenue","","Philadelphia","PA","19134","","20111117",128
+8400128,2011,6,"IBT - DRIVE","25 Louisiana Avenue - NW","","Washington","DC","20001","","20111104",2457.82
+8400128,2011,6,"Hake, Kittie","2552 Jefferson Street","","Harrisburg","PA","17110","","20111025",182
+8400128,2011,6,"Hake, Kittie","2552 Jefferson Street","","Harrisburg","PA","17110","","20111116",91

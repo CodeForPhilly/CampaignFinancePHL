@@ -1,0 +1,3 @@
+1776221,2011,6,"IA","citizens for hughes","7478 rhoads street","","philadelphia","PA","19143","","","","","","AK","","20111108",200,"",,"",,""
+1776221,2011,6,"IC","friends of jannie blackwell","5844 webster street","","philadelphia","PA","19143","","","","","","AK","","20111108",3000,"",,"",,""
+1776221,2011,6,"IC","democratic city committee","1421 walnut street","","philadelphia","PA","19103","","","","","","AK","","20111104",4025,"",,"",,""

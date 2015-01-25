@@ -1,0 +1,5 @@
+2011166,2011,6,"IB","Elliot Cohen","Two Penn Center","Suite #1516","Philadelphia","PA","19102","Attorney","Law Offices of Louis Savino","Two Penn Center","#1516","Philadelphia","PA","19102","20111109",200,"",,"",,"contriubution"
+2011166,2011,6,"ID","Diana Anhalt","42 Summitt Ave","","Philadelphia","PA","19116","attorney","self","","","","PA","","20111108",1200,"",,"",,"loan to campaign"
+2011166,2011,6,"ID","Louis T. Savino","Two Penn Center","#1516","Philadelphia","PA","19102","attorney","self","","","","PA","","20111124",500,"",,"",,"contribution"
+2011166,2011,6,"IC","AFSCME District Council 47","1606 Walnut Street","","Philadelphia","PA","19103","","","","","","AK","","20111108",600,"",,"",,"contriubution"
+2011166,2011,6,"IC","Laborers District Council PAC","665 North Broad St","3rd Floor","Philadelphia","PA","19123","","","","","","AK","","20111104",2500,"",,"",,"contribution"

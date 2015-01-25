@@ -1,0 +1,7 @@
+8400487,2011,6,"Water Revenue Bureau","1401 JFK Boulevard","","Philadelphia","PA","191021663","20111027",46.47,"Water Bill",
+8400487,2011,6,"Wachovia Bank","Regional Service Center VA 7300","PO Box 40031","Roanoke","VA","240220031","20111031",2,"Service Fee",
+8400487,2011,6,"Verizon","P.O. Box 25505","","Lehigh Valley","PA","180025505","20111104",44.14,"Phone",
+8400487,2011,6,"Mr. & Mrs. Richard Lazer","1190 Ritner Street","","Philadelphia","PA","19148","20111107",50,"Donation",
+8400487,2011,6,"Thomas Johnson","2936 Belgrade Street","","Philadelphia","PA","19134","20111110",148.88,"Ward meeting Pizza",
+8400487,2011,6,"Water Revenue Bureau","1401 JFK Boulevard","","Philadelphia","PA","191021663","20111123",51.97,"Water Bill",
+8400487,2011,6,"25th Ward Democratic Club","2637 E. Clearfield Street","","Philadelphia","PA","19134","20111108",5400,"Election Day Expenses",

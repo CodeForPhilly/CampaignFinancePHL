@@ -1,0 +1,3 @@
+9800153,2011,6,"IC","LAWPAC","800 N. Third St.","","Harrisburg","PA","17102","","","","","","","","20111104",5000,"",,"",,""
+9800153,2011,6,"IC","The PA Insurance Poiltical Action Committee","1600 Market St.","Suite 1520","Philadelphia","PA","19103","","","","","","","","20111104",500,"",,"",,""
+9800153,2011,6,"IC","PA Automotive Assn. PAC","1925 N. Front St.","P.O. Box 2955","Harrisburg","PA","17105","","","","","","","","20111115",500,"",,"",,""

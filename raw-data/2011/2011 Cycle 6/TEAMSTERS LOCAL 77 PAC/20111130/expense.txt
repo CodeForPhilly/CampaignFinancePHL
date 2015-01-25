@@ -1,0 +1,3 @@
+9600250,2011,6,"Friends of Linda M. Hee","P.O. Box 41","","Abington","PA","19001","20111025",250,"Political contribution",
+9600250,2011,6,"Ann Thornburg Weiss for Clerk of Courts","P.O. Box 120","","Fort Washington","PA","19034","20111025",250,"Political contribution",
+9600250,2011,6,"Democratic Campaign Committee of Philadelphia","1421 Walnut Street","","Philadelphia","PA","19102","20111031",750,"Political contribution",

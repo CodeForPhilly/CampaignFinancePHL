@@ -1,0 +1,3 @@
+8400128,2011,6,"BBobby II","PO Box 65743","","Philadelphia","PA","19155","20111101",1000,"Contribution",
+8400128,2011,6,"Committee to Elect Tom Leighton","38 Leighton Drive","","Wilkes-Barre","PA","18702","20111101",250,"Contribution",
+8400128,2011,6,"Citizens for Judge Cabry","1950 Bergdoll Avenue","","Boothwyn","PA","19061","20111111",600,"Contribution",

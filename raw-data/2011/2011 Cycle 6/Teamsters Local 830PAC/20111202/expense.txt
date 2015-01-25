@@ -1,0 +1,8 @@
+8300203,2011,6,"Bucks Victory","10 E. Court Street","","Doylestown","PA","18901","20111026",500,"Contribution",
+8300203,2011,6,"The Hatboro Democratic Committee","P.O. Box 403","","Hatboro","PA","19040","20111026",500,"Contribution",
+8300203,2011,6,"Bobby 11","P.O. Box 65743","","Philadelphia","PA","19155","20111101",500,"Contribtuion",
+8300203,2011,6,"Daniel Grace","12298 Townsend Rd","","Philadelphia","PA","19154","20111109",20,"Reimbursement for parking",
+8300203,2011,6,"John O'Rourke","12298 Townsend Rd","","Philadelphia","PA","19154","20111109",21.5,"Reimbursement for SEPTA train",
+8300203,2011,6,"Teamsters Local Union No. 830","12298 Townsend Road","","Philadelphia","PA","19154","20111116",369.15,"Reimburse for PAC admin work - 10/11",
+8300203,2011,6,"Taubenberger for Philadelphia Committee","1213 Loney Street","","Philadelphia","PA","19111","20111122",1000,"Contribution",
+8300203,2011,6,"Friends of Jannie L. Blackwell","P.O. Box 40634","","Philadelphia","PA","19107","20111122",250,"Contribution",

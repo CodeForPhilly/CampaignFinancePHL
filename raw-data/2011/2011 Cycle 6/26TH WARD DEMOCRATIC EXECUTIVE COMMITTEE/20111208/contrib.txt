@@ -1,0 +1,6 @@
+1776117,2011,6,"IIF","DONATUCCI 2007 COMMITTEE","1616 S. Broad Street","","Philadelphia","PA","191451509","","","","","","PA","","20111026",23.8,"",,"",,"VERIZON - Service to 1615 Porter (Ward Headquarters)"
+1776117,2011,6,"IIF","DONATUCCI 2007 COMMITTEE","1616 S. Broad Street","","Philadelphia","PA","191451509","","","","","","PA","","20111031",55.42,"",,"",,"Water Revenue Bureau - Service to 1615 Porter (Ward Headquarters)"
+1776117,2011,6,"IIF","DONATUCCI 2007 COMMITTEE","1616 S. Broad Street","","Philadelphia","PA","191451509","","","","","","PA","","20111115",10.59,"",,"",,"PGW - Service to 1615 Porter (Ward Headquarters)"
+1776117,2011,6,"IIF","DONATUCCI 2007 COMMITTEE","1616 S. Broad Street","","Philadelphia","PA","191451509","","","","","","PA","","20111115",52.46,"",,"",,"PECO - Service to 1615 Porter (Ward Headquarters)"
+1776117,2011,6,"IC","KENNEY FOR COUNCIL","P.O. Box 60065","","Philadelphia","PA","191022127","","","","","","PA","","20111104",1000,"",,"",,"Contribution"
+1776117,2011,6,"IC","DEMOCRATIC CAMPAIGN COMMITTEE OF PHILADELPHIA","1421 Walnut Street","","Philadelphia","PA","19102","","","","","","PA","","20111104",4200,"",,"",,"Contribution"

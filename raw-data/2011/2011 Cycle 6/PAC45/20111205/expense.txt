@@ -1,0 +1,6 @@
+8700056,2011,6,"Office Max","","","Philadelphia","PA","","20110607",79.9,"printer ink",
+8700056,2011,6,"Democrat City Committee","1421 Walnut Street","","Philadelphia","PA","19102","20110719",300,"Brady Bunch 10 Tickets",
+8700056,2011,6,"St. John Cantius Church","","","Philadelphia","PA","19137","20110822",150,"In Memory of Wally Lisiewski",
+8700056,2011,6,"Democrat City Committee","2301 Pennsylvania Ave","","Philadelphia","PA","19130","20111031",1500,"10 Fall Tickets",
+8700056,2011,6,"Harry Enggasser","2824 Plum St","","Phila","PA","19137","20111031",7000,"GOTV",
+8700056,2011,6,"Wawa","","","","PA","","20111101",50.01,"Gas",

@@ -1,0 +1,6 @@
+2009059,2011,6,"IC","Jonathan Saidel","Two Commerce Square","","Philadelphia","PA","19103","","","","","","AK","","20110510",500,"",,"",,"Contribution"
+2009059,2011,6,"IC","Joseph Russo","732 Federal Street","","Philadelphia","PA","19147","","","","","","AK","","20110606",500,"",,"",,"Contribution"
+2009059,2011,6,"IC","Sherri Cohen","P.O. Box 60052","","Philadelphia","PA","19102","","","","","","AK","","20110606",400,"",,"",,"Contribution"
+2009059,2011,6,"IC","Kenney for Council","P.O. Box 60065","","Philadelphia","PA","19102","","","","","","AK","","20111102",1000,"",,"",,"Contribution"
+2009059,2011,6,"IC","Local Union #98 I.B.E.W. PAC","1701 Spring Garden Street","","Philadelphia","PA","19130","","","","","","AK","","20111103",5000,"",,"",,"Contribution"
+2009059,2011,6,"IC","Roofers Local 30 PAC","6447 Torresdale Avenue","","Philadelphia","PA","19135","","","","","","AK","","20111104",500,"",,"",,"Contribution"

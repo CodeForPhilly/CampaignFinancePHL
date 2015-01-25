@@ -1,0 +1,3 @@
+0,2011,6,"IA","Committee to Elect Vincent Hughes","","","PHILADELPHIA","PA","","","","","","","","","20111104",200,"",,"",,"Contribution"
+0,2011,6,"IC","Democratic City Committee","","","PHILADELPHIA","PE","","","","","","","","","20111104",3150,"",,"",,"E-Day"
+0,2011,6,"IC","Friends of Jannie Blackwell","","","Philadelphia","Pe","","","","","","","","","20111103",3000,"",,"",,""

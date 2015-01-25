@@ -1,0 +1,5 @@
+2002122,2011,6,"Independence Strategy","P.O. Box 789","","Wayne","PA","19087","20111103",117000,"Design, printing, mailing, radio and robo calls for GOTV",
+2002122,2011,6,"TD Bank","2653 S. 5th Street","","Philadelphia","PA","19148","20111103",25,"Bank fee",
+2002122,2011,6,"Thomas W. St. Hill","5141 Spruce Street","","Philadelphia","PA","19138","20111107",20000,"Election day expenses - GOTV",
+2002122,2011,6,"Edward J. McBride","322 Fitzgerald Street","","Philadelphia","PA","19148","20111114",46.28,"Postage reimbursement",
+2002122,2011,6,"AT & T Mobility","P.O. Box 6463","","Carol Stream","IL","60197","20111114",252.6,"Telephone expense",

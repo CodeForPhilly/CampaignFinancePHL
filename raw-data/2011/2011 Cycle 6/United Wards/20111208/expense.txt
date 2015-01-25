@@ -1,0 +1,6 @@
+2011194,2011,6,"Republican City Committee","1700 Benjamin Franklin Parkway","","Philadelphia","PA","19103","20111101",250,"Fundraiser",
+2011194,2011,6,"Friends of Al Schmidt","P.O. Box 18538","","Philadelphia","PA","19129","20111101",200,"Fundraiser",
+2011194,2011,6,"Thirty-First Ward Republican Executive Committee","2618 E. Thompson Street","","Philadelphia","PA","19125","20111026",160,"Fundraiser",
+2011194,2011,6,"Cheltenham Printing","518 Ryers Avenue","","Cheltenham","PA","19012","20111110",546.96,"Printing",
+2011194,2011,6,"Philadelphia Federal Credit Union","1600 Arch Street","","Philadelphia","PA","19103","20111101",10,"Returned Check Fee for Deposited Check",
+2011194,2011,6,"21st Ward Republican Executive Committee","712 Hill Road","","Philadelphia","PA","19128","20111026",100,"Fundraiser",

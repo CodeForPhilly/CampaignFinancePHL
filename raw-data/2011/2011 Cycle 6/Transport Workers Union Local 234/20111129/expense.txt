@@ -1,0 +1,6 @@
+1776363,2011,6,"Citizens for david Oh","1818 Market Street","13th Floor","Philadelphia","PA","19103","20111102",1000,"Campaign Contribution",
+1776363,2011,6,"Comm.toElectChristineSolomonTrafficCourt","","","Philadelphia","PA","19111","20111102",500,"Campaign Contribution",
+1776363,2011,6,"Shapiro/Richards","P.O.Box 241","","Abington","PA","19001","20111102",500,"Campaign Contribution",
+1776363,2011,6,"Friends of Frank Dermody","P.O. Box 274","","Tarentum","PA","15084","20111102",500,"Campaign Contribution",
+1776363,2011,6,"Taubenberger for Philadelphia","1213 Loney Street","","Philadelphia","PA","19111","20111102",500,"Campaign Contribution",
+1776363,2011,6,"Transport Workers Union of America - COPE","501 3rd Street NW","9th Floor","Washington","DC","20001","20111121",6772.49,"50% of member contributions per Union Constitution",

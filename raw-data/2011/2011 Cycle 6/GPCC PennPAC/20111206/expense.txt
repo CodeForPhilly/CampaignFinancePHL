@@ -1,0 +1,4 @@
+8300127,2011,6,"CORMAN, JAKE FRIENDS OF","PO BOX 13053","","HARRISBURG","PA","17110","20111121",500,"contribution",
+8300127,2011,6,"For a Better Pennsylvania Fund","P.O. Box 755","","Harrisburg","PA","17108","20111128",1000,"contribution",
+8300127,2011,6,"USPS","101 S. Broad St.","","Philadelphia","PA","19102","20111101",88,"postage",
+8300127,2011,6,"Citizens Bank","1735 Market St.","","Philadelphia","PA","19103","20111031",11.99,"contribution",

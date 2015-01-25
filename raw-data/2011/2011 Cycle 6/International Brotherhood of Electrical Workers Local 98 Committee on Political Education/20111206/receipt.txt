@@ -1,0 +1,3 @@
+8200581,2011,6,"Cash - PNC Bank","1600 Market Street","","Philadelphia","PA","19103","Unused/returned cash-11/10 non-fed GOTV","20111110",2626.15
+8200581,2011,6,"Cash - PNC Bank","1600 Market Street","","Philadelphia","PA","19103","Unused/returned cash-5/10 non-fed GOTV","20111110",2610.8
+8200581,2011,6,"PNC Bank","1600 Market Street","","Philadelphia","PA","19103","10/11 Money Market interest","20111031",134.33

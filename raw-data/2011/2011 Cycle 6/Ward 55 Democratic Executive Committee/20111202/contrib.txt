@@ -1,0 +1,6 @@
+2000278,2011,6,"IA","Friends to Elect Mike McGeehan","4413 McMenamy Street","4413 McMenamy Street","Philadelphia","PA","19136","","","","","","AK","","20111101",100,"",,"",,"Ward Picnic Contribution"
+2000278,2011,6,"IC","Boilermakers Local No. 13 PAC","2300 New Falls Road","","Newportville","PA","19056","","","","","","AK","","20111101",600,"",,"",,"City Committee Dinner Tickets"
+2000278,2011,6,"IC","Local Union #98 I.B.E.W. PAC","1719 Spring Garden Street","","Philadelphia","PA","19130","","","","","","AK","","20111103",4000,"",,"",,"Get Out The Vote"
+2000278,2011,6,"IC","Democratic Campaign Committee","2301 Pennsylvania Avenue","","Philadelphia","PA","19130","","","","","","AK","","20111105",5075,"",,"",,"Get OutThe Vote"
+2000278,2011,6,"IC","Friends Across the Keystone PAC","940 West Sproul Road","Suite 101","Springfield","PA","19064","","","","","","AK","","20111101",2500,"",,"",,"Get Out The Vote"
+2000278,2011,6,"IC","PAC 1742","7720 Castor Avenue","","Philadelphia","PA","19152","","","","","","AK","","20111111",1000,"",,"",,"Contribution to Ward Holiday Party Expense"

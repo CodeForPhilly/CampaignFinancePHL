@@ -1,0 +1,7 @@
+1776139,2011,6,"RCR INC","55 Beacon Hill Lane","","Pheonixville","PA","19460","20111025",3043,"Political Printing",
+1776139,2011,6,"Republican City Committee","17th and Parkway","The Windsor","Philadelphia","PA","19103","20111101",250,"Cocktail Party Contribution",
+1776139,2011,6,"Republican City Committee","17th and Parkway","","Philadelphia","PA","19103","20111104",2000,"Election Day Expense",
+1776139,2011,6,"Ron Gladen","1741 E Tulpehocken Street","","Philadelphia","PA","19134","20111107",2500,"Election Day Expense",
+1776139,2011,6,"The Turning Point Campaion","8415 Suffock Place","","Philadelphia","PA","19153","20111114",833,"Video",
+1776139,2011,6,"Strassheim Graphics","333 N. 15th Street","","Philadelphia","PA","19102","20111114",189,"Political Printing",
+1776139,2011,6,"Public Record","1323 S Broad Street","","Philadelphia","PA","19147","20111114",350,"Political Ad",

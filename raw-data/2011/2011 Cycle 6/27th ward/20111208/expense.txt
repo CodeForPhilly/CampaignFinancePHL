@@ -1,0 +1,6 @@
+1776221,2011,6,"PSU","4212 42nd street","","philadelphia","PA","19104","20111029",75,"advertisement",
+1776221,2011,6,"UNGP","1501 cherry street","","philadelphia","PA","19103","20111101",200,"donation",
+1776221,2011,6,"jazzy's entertainment","5200 chestnut street","","philadelphia","PA","19143","20111030",150,"entertainment",
+1776221,2011,6,"hare bros. printing","42nd street","","philadelphia","PA","19104","20111102",360,"printing cost",
+1776221,2011,6,"democratic city committee","1421 walnut street","","philadelphia","PA","19103","20111112",600,"jeff jackson dinner",
+1776221,2011,6,"27th ward executive committee","4301 larchwood avenue","","philadelphia","PA","19104","20111108",5587.86,"election day expences",

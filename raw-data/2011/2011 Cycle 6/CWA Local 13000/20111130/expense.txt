@@ -1,0 +1,5 @@
+8000119,2011,6,"CWA Local 13000","2124 Race St","","Philadelphia","PA","191031097","20111116",32.75,"pac Shirt",
+8000119,2011,6,"Friends for Farnese","PO Box 22596","","Philadelphia","PA","191102596","20111128",1500,"1st Senatorial Dist",
+8000119,2011,6,"Joseph Albano","309 Dalton St","","Philadelphia","PA","191111802","20111128",50,"Working Poll",
+8000119,2011,6,"Beverly J. Elmes","2126 Loney Street","","Philadelphia","PA","191523219","20111128",50,"Working Poll",
+8000119,2011,6,"Charles McNear","1431 Dondill Place","","Philadelphia","PA","19122","20111128",50,"Working Poll",

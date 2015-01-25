@@ -1,0 +1,8 @@
+9200379,2011,6,"America Votes-Pennsylvania","1401 New York Avenue NW","Suite 720","Washington","DC","20005","20111111",50000,"Contribution",
+9200379,2011,6,"Democratic State Committee","300 North 2nd Street","8th Floor","Harrisburg","PA","17101","20111104",5000,"Contribution",
+9200379,2011,6,"Equality Pennsylvania","221 Front Street","","Harrisburg","PA","17101","20111103",10000,"Contribution",
+9200379,2011,6,"Friends of Corey O'Connor","2212 Murray Avenue","","Pittsburgh","PA","15217","20111102",1000,"Contribution",
+9200379,2011,6,"Friends of Mike Eakins","202 State Street","","Harrisburg","PA","17101","20111101",12000,"Contribution",
+9200379,2011,6,"Friends of Vaughn Spencer","147 North Fifth Street","Second Floor","Reading","PA","19601","20111027",2000,"Contribution",
+9200379,2011,6,"Kennedy Printing","5534 Baltimore Avenue","","Philadelphia","PA","19143","20111102",10599.67,"Printing and Postage",
+9200379,2011,6,"Working for Westmoreland","189 Winfield Circle","","Greensburg","PA","15601","20111025",5000,"Contribution",

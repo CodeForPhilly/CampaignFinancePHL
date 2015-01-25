@@ -1,0 +1,5 @@
+9900106,2011,6,"Republican Committee of Chester County","15 South Church Street","","West Chester","PA","19382","20111031",1250,"political contribution",
+9900106,2011,6,"The Republican City Committee","1700 Benjamin Franklin Parkway","Lower Level","Philadelphia","PA","19103","20111031",250,"political contribution",
+9900106,2011,6,"The Committee to Elect Sal Panto","P.O. Box 222","","Easton","PA","18044","20111102",2300,"political contribution",
+9900106,2011,6,"Friends of the Butler Team","Unknown","","","PA","","20111107",1000,"political contribution",
+9900106,2011,6,"Doherty for PA","P.O. Box  20209","","Scranton","PA","18503","20111110",2000,"political contribution",

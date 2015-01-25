@@ -1,0 +1,6 @@
+1776036,2011,6,"Edward S. Thornton","3025 South 74th Street","","Philadelphia","PA","19153","20110630",210,"Election Night Food",
+1776036,2011,6,"Democratic City Committee","1421 Walnut Street","","Philadelphia","PA","","20110721",140,"Donation Brady Bunch Beach Party",
+1776036,2011,6,"Friends of Ron Donatucci","","","Philadelphia","PA","","20110803",145,"Donation",
+1776036,2011,6,"Friends of Edward S. Thornton","3025 S. 74th St","","Philadelphia","PA","19153","20111106",1150,"Election Day Expenses",
+1776036,2011,6,"19th Ward Committee","","","Philadelphia","PA","","20111021",100,"Donation",
+1776036,2011,6,"Citizen Bank","Broad & McKean Sts","","Philadelphia","PA","19145","20111205",18,"Service Charges",

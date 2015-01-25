@@ -1,0 +1,8 @@
+2008320,2011,6,"Auburn Quad, Inc.","P.O. Box 390728","","Cambridge","MA","02139","20111101",7.9,"Service Fee",
+2008320,2011,6,"Auburn Quad, Inc.","P.O. Box 390728","","Cambridge","MA","02139","20111122",19.75,"Service Fee",
+2008320,2011,6,"Cheltenham Printing Company","518 Ryers Avenue","Building #2, First Floor","Cheltenham","PA","19012","20111109",599.96,"Printing",
+2008320,2011,6,"Haaz for Judge","PO Box 95","","Conshohocken","PA","19428","20111103",500,"Political Contribution",
+2008320,2011,6,"Massachusetts Wisconsin Victory Fund","426 C St NE","","Washington","DC","20002","20111121",1000,"Political Contribution",
+2008320,2011,6,"Suzanne Bonamici for Congress","PO Box 1632","","Beaverton","OR","97075","20111121",1000,"Political Contribution",
+2008320,2011,6,"United States Postal Sevice","Postmaster","","Jenkintown","PA","19046","20111102",88,"Postage",
+2008320,2011,6,"UPS -- Billing","PO BOX 7247-0244","","Philadelphia","PA","191700001","20111102",98.74,"Shipping",

@@ -1,0 +1,4 @@
+1776136,2011,6,"Maria Quinones Sanchez","2038 North Hancock Street","","Philadelphia","PA","19122","20111024",940.69,"Misc. Expenses",
+1776136,2011,6,"Tomas Sanchez & Maria Quinones-Sanchez","2038 N. Hancock Street","","Philadelphia","PA","19122","20110328",15000,"Loan to Campaign",
+1776136,2011,6,"Maria Quinones Sanchez","2038 North Hancock Street","","Philadelphia","PA","19122","20110606",1759.88,"Misc. Expenses",
+1776136,2011,6,"Maria Quinones Sanchez","2038 North Hancock Street","","Philadelphia","PA","19122","20111128",583.3,"Misc. Expenses",

@@ -1,0 +1,4 @@
+1776366,2011,6,"Friends of Brian O' Neill","15209 Bernita Drive","","Philadelphia","PA","19116","20111104",500,"contribution",
+1776366,2011,6,"Citizens for Hughes","4601 Market Street","1st floor","Philadelphia","PA","19139","20111109",3000,"contribution",
+1776366,2011,6,"Friends to Elect Vanessa Brown Lowery","942 N Fallon Street","","Philadelphia","PA","19131","20111114",250,"contribution",
+1776366,2011,6,"Friends of Cherelle Parker","PO Box 27647","","Philadelphia","PA","19118","20111121",500,"contribution",

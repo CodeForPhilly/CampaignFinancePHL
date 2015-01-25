@@ -1,0 +1,6 @@
+1776215,2011,6,"Acme","4236 Harbor Beach Blvd.","","Brigantine","NJ","08203","20111125",44,"Postal Stamps",
+1776215,2011,6,"Walmart","","","Philadelphia","PA","19154","20110621",113.4,"Printer",
+1776215,2011,6,"Operation Sunblock","","","Philadelphia","PA","19154","20111011",20,"Donation",
+1776215,2011,6,"Philadelphia Flower Co","12343 Academy Road","","Philadelphia","PA","19154","20110722",187.91,"Funreal Flowers",
+1776215,2011,6,"Ticket","","","Philadelphia","PA","19154","20110613",97.77,"Ward Expense",
+1776215,2011,6,"Ward 66B","12410 Tyrone Road","","Philade;phia","PA","19154","20111108",6775.4,"Election Expense",

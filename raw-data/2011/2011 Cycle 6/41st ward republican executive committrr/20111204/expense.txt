@@ -1,0 +1,4 @@
+2008271,2011,6,"21st ward gop","PO BOX 11894","","PHILADELPHIA","PA","19128","20111025",40,"fundraiser",
+2008271,2011,6,"31ST WARD gop","2627 e lehigh ave.","","philadelphia","PA","19125","20111104",80,"fundraiser",
+2008271,2011,6,"james louis/ward leader 41st ward","7233 algard st","","philadelphia","PA","19135","20111107",3200,"election day expenses",
+2008271,2011,6,"65th ward gop","9304 delaire landing rd","","philadelphia","PA","19114","20110908",285,"fundraiser",

@@ -1,0 +1,2 @@
+1776185,2011,6,"IC","AFSCME District Council 47","1606 Walnut Street","","Philadelphia","PA","19103","PAC","PAC","","","","","","20111109",500,"",,"",,"Contribution"
+1776185,2011,6,"IC","IBEW-COPE","600 Seventh Avenue","","Washington","DC","20001","PAC","PAC","","","","","","20111109",5000,"",,"",,"Contribution"

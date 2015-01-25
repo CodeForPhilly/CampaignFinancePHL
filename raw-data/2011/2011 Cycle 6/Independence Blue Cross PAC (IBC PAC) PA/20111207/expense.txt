@@ -1,0 +1,8 @@
+2008282,2011,6,"Blue Cross Blue Shield Association","1310 G Street, NW","","Washington","DC","20005","20111128",1500,"Contribution to Federal Comms.",
+2008282,2011,6,"Greater Philadelphia Chamber of Commerce PennPAC","200 S Broad St","Ste 700","Philadelphia","PA","191023896","20111109",1000,"Contribution to Non-Fed Comms.",
+2008282,2011,6,"Linda Lingle Senate Committee","PO Box 7272","","Alexandria","VA","223070272","20111101",1000,"Contribution to Federal Comms.",
+2008282,2011,6,"Republican Committee of Chester County","15 South Church Street","","West Chester","PA","19382","20111027",1000,"Contribution to Non-Fed Comms.",
+2008282,2011,6,"Republican Party of Pennsylvania","717 North Second Street","","Harrisburg","PA","17102","20111117",2000,"Contribution to Non-Federal Committee",
+2008282,2011,6,"Sen. Anthony Hardy Williams","5939 Cobbs Creek Pkwy","","Philadelphia","PA","191432413","20111028",500,"Contribution to Non-Fed Comms.",
+2008282,2011,6,"Sen. Jay Costa Jr.","314 Newport Road","","Pittsburgh","PA","15221","20111108",500,"Contribution to Non-Fed Comms.",
+2008282,2011,6,"Sen. Robert M. Tomlinson","2207 Bristol Pke","","Bensalem","PA","19020","20111108",500,"Contribution to Non-Fed Comms.",
