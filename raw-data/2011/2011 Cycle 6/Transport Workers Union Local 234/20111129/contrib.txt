@@ -1,6 +1,0 @@
-1776363,2011,6,"ID","TWU Local 234 members","500 N. 2nd Street","","Philadelphia","PA","191232146","","SEPTA","1234 Market Street","","Philadelphia","PA","19107","20111028",2594.95,"",,"",,"contribution"
-1776363,2011,6,"ID","TWU Local 234 members","500 N. 2nd Street","","Philadelphia","PA","191232146","","SEPTA","1234 Market Street","","Philadelphia","PA","19107","20111104",2614.7,"",,"",,"contribution"
-1776363,2011,6,"ID","TWU Local234 members","500 N. 2nd Street","","Philadelphia","PA","191232146","","SEPTA","1234 Market Street","","Philadelphia","PA","19107","20111111",2588.7,"",,"",,"contribution"
-1776363,2011,6,"ID","TWU Local 234 Staff","500 N. 2nd Street","","Philadelphia","PA","191232146","","SEPTA","1234 Market Street","","Philadelphia","PA","19107","20111116",475.4,"",,"",,"Contribution"
-1776363,2011,6,"ID","TWU Local 234 members","500 N. 2nd Street","","Philadelphia","PA","191232146","","SEPTA","1234 Market Street","","Philadelphia","PA","19107","20111121",2559.35,"",,"",,"contribution"
-1776363,2011,6,"ID","TWU Local 234 members","500 N. 2nd Street","","Philadelphia","PA","191232146","","SEPTA","1234 Market Street","","Philadelphia","PA","19107","20111126",2686.2,"",,"",,"contribution"

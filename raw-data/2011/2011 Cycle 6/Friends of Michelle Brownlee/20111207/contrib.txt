@@ -1,4 +1,0 @@
-2009456,2011,6,"IA","Highmark Health PAC","1800 Center Street","","Camp Hill","PA","17089","","","","","","AK","","20111101",250,"",,"",,"Contribution"
-2009456,2011,6,"IA","Vision Committee","2205 Strawberry Square","","Harrisburg","PA","17101","","","","","","AK","","20111101",250,"",,"",,"Contribution"
-2009456,2011,6,"IC","PFT Committee to Support Public Education","1816 Chestnut Street","","Philadelphia","PA","19103","","","","","","AK","","20111101",1000,"",,"",,"Contribution"
-2009456,2011,6,"IC","PECOPAC","2301 Market Street - S15-1","","Philadelphia","PA","19103","","","","","","AK","","20111118",300,"",,"",,"Contribution"

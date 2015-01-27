@@ -1,6 +1,0 @@
-2011145,2011,6,"Jonathan A. Saidel","2001 Market Street, Ste. 2900","","Philadelphia","PA","19103","20111026",2500,"Repayment of loan balance",
-2011145,2011,6,"Lapensohn Accounting Prof. LLC","121 South Broad Street, 5th Floor","","Philadelphia","PA","191074544","20111026",1750,"Campaign Finance Rep Fee",
-2011145,2011,6,"Jonathan Saidel","2001 Market Street, Ste 2900","","Philadelphia","PA","19103","20111031",2400,"Reimbursement of contributions to ward leaders",
-2011145,2011,6,"Cash","","","","PA","","20111104",500,"Cash for election day expenses",
-2011145,2011,6,"Maria McLaughlin","8620 Thomas Mill Road","","Philadelphia","PA","191281140","20111110",3731,"Reimbursement of election day expenses paid",
-2011145,2011,6,"Lapensohn Accounting Prof, LLC","121 South Broad Street, 5th Floor","","Philadelphia","PA","191044544","20111110",385.44,"Reimbursement of out of pocket expenses - 3/1/2011-10/31/2011",

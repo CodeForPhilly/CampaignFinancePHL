@@ -1,4 +1,0 @@
-2009330,2011,6,"Citizens for David Oh","5813 Thomas Avenue","","Philadelphia","PA","19143","20111027",2500,"Contribution",
-2009330,2011,6,"Citizens for Kenyatta Johnson","1604 Point Breeze Avenue","","Philadelphia","PA","19145","20111027",500,"Contribution",
-2009330,2011,6,"DAS, Inc.","3907 G Street","","Philadelphia","PA","19140","20111108",7650,"Printing/Delivery",
-2009330,2011,6,"CASH Withdrawal","P.O. Box 60957","","Philadelphia","PA","19133","20111111",5200,"Election Day Workers",

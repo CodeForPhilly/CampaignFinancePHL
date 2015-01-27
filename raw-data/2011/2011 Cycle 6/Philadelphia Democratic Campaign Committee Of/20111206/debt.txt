@@ -1,2 +1,0 @@
-8000444,2011,6,"Kennedy Printing","5534 Baltimore Avenue","","Philadelphia","PA","19143","19920505",18845.46,"Printing",
-8000444,2011,6,"Rendell for Governor","P.O. Box 586635","","Philadelphia","PA","19102","20040422",100000,"Loan",

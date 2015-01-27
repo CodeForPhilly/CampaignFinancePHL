@@ -1,2 +1,0 @@
-2011103,2011,6,"IC","Laborer's District Council 332","1310 Wallace Street","","Philadelphia","PA","19123","","","","","","AK","","20111030",2500,"",,"",,"Donation"
-2011103,2011,6,"IC","AFSCME District Council 47","1606 Walnut Street","","Philadelphia","PA","19103","","","","","","AK","","20111029",500,"",,"",,"Donation"

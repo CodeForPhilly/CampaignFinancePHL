@@ -1,2 +1,0 @@
-8400487,2011,6,"IC","Democratic Campaign Committee of Philadelphia","1421 Walnut Street","","Philadelphia","PA","19102","","","","","","AK","","20111104",4200,"",,"",,"Donation"
-8400487,2011,6,"IC","Kenney for Council","PO Box 60065","","Phladelphia","PA","191022127","","","","","","AK","","20111107",500,"",,"",,"Donation"

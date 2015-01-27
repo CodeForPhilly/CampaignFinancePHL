@@ -1,3 +1,0 @@
-1776381,2011,6,"Friends of Cheri Honkala","718 Market Street","","Philadelphia","PA","19106","reimbursement","20111030",161.46
-1776381,2011,6,"Friends of Cheri Honkala","718 Market Street","","Philadelphia","PA","19106","reimbursement","20111109",100
-1776381,2011,6,"Friends of Cheri Honkala","718 Market Street","","Philadelphia","PA","19106","reimbursement","20111114",400

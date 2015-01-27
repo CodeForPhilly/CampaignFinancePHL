@@ -1,4 +1,0 @@
-1776077,2011,6,"Flaster Greenberg","1600 John F. Kennedy Blvd","2nd Floor","Philadelphia","PA","19103","20111014",2500,"Unpaid invoice",
-1776077,2011,6,"Soap Box Solutions","1215 Wood Street","","Phila","PA","19107","20110701",4750,"Unpaid Invoice",
-1776077,2011,6,"Soapbox Solutions, LLC","1215 Wood Street","#1","Philadelphia","PA","19107","20110701",1331.82,"unpaid invoice",
-1776077,2011,6,"Soapbox Solutions, LLC","1215 Wood Street","#1","Philadelphia","PA","19107","20110701",4535,"Unpaid Invoice",

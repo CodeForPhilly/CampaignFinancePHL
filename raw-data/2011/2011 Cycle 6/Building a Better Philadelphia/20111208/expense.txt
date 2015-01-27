@@ -1,5 +1,0 @@
-2004238,2011,6,"Victoria Fenton","8604 Wissahickon Avenue","","Philadelphia","PA","19128","20111102",5000,"Election Day expenses - GOTV",
-2004238,2011,6,"Blarney PAC","P.O. Box 65136","","Philadelphia","PA","19155","20111104",20000,"Contribution",
-2004238,2011,6,"Carmen D'Amato","912 S. Front Street","","Philadelphia","PA","19147","20111107",25000,"Election Day expenses - GOTV",
-2004238,2011,6,"Quaker City String Band","1943 S. 3rd Street","","Philadelphia","PA","19148","20111109",625,"Entertainment for GOTV rally",
-2004238,2011,6,"Edward J. McBride","322 Fitzgerald Street","","Philadelphia","PA","19148","20111114",34.49,"Postage reimbursement",

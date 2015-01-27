@@ -1,3 +1,0 @@
-2002336,2011,6,"Green for Philadelphia","PO Box 58247","","Philadelphia","PA","19102","20111105",3500,"contribution",
-2002336,2011,6,"New Genaeration 1 PAC","1324 Alder Street","","Philadelphia","PA","19147","20111105",1000,"1st ward golf outing",
-2002336,2011,6,"Citizens Bank","PO Box 7000","","Providence","RI","29401","20111110",71.93,"Bank Service Charges",

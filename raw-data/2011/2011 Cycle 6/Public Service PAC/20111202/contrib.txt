@@ -1,5 +1,0 @@
-9500165,2011,6,"IC","Squilla for Counci","PO Box 37332","","Phila","PA","19148","","","","","","AK","","20111103",500,"",,"",,"contrib"
-9500165,2011,6,"IC","Democratic Campaign Committee of Phila","2301 PA Ave","","Phila","PA","19130","","","","","","AK","","20111105",3850,"",,"",,"contrib"
-9500165,2011,6,"IC","Kenney for Council","PO Box 60065","","Phila","PA","19102","","","","","","AK","","20111105",2000,"",,"",,"contrib"
-9500165,2011,6,"IC","Local Union 98 IBEW Committee on Political Education","1719 Spring Garden St.","","Phila","PA","19130","","","","","","AK","","20111109",1000,"",,"",,"contrib"
-9500165,2011,6,"IA","Donatucci 2007 Committee","1616 S. Broad St.","","Phila","PA","19145","","","","","","AK","","20111105",250,"",,"",,"contrib"

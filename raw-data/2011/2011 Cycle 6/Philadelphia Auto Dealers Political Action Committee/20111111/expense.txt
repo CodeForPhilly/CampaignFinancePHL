@@ -1,3 +1,0 @@
-8700084,2011,6,"Nutter for Mayor","42 South 15th Street","Suite 1313","Philadelphia","PA","19102","20111028",3000,"Contribution",
-8700084,2011,6,"National Payment Processing","PO Box 3429","","Thousand Island","CA","91359","20111031",316.6,"Merchant Account fees",
-8700084,2011,6,"American Express","","","","PA","","20111031",70.81,"Merchant Account Fees",

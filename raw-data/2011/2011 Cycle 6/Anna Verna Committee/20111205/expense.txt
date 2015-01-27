@@ -1,6 +1,0 @@
-1776140,2011,6,"Democrat City Committee","1421 Walnut Street","","Philadelphia","PA","19106","20111025",150,"Dinner Ticket",
-1776140,2011,6,"Angela DiGulio","1023 Dickinson Street","","philadelphia","PA","19147","20111024",25,"Gift",
-1776140,2011,6,"Jerry Davis","3150 S.  18th Street","","Philadelphia","PA","19145","20111122",50,"gift",
-1776140,2011,6,"Cedrones Flowers","800 Lombard Street","","Philadelphia","PA","19148","20111115",67.18,"flowers",
-1776140,2011,6,"Cedrones Flowers","800 Lombard Street","","Philadelphia","PA","19147","20111118",65.88,"flowers",
-1776140,2011,6,"Wells Fargo","Broad & Sansome Street","","Philaldelphia","PA","19148","20111031",2,"bank fee",

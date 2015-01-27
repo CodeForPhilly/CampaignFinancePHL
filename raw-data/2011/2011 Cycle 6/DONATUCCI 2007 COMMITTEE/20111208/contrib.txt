@@ -1,4 +1,0 @@
-2006456,2011,6,"IC","AFSCME DISTRICT COUNCIL 47 PAC FUND","1606 Walnut Street","","Philadelphia","PA","19103","","","","","","PA","","20111104",300,"",,"",,"Contribution"
-2006456,2011,6,"IC","PNCBANKPAC","One PNC Plaza","","Pittsburgh","PA","152222707","","","","","","PA","","20111104",580,"",,"",,"Contribution"
-2006456,2011,6,"ID","NATHAN JOHNSON","5352 Lake Road","","Newfield","NJ","08344","Owner","Johnson's Tree Transplanting & Nursery","1320 Herbert Blvd.","","Williamstown","NJ","08094","20111104",1000,"",,"",,"Contribution"
-2006456,2011,6,"ID","ALAN KONEFSKY","1760 Market Street - #608","","Philadelphia","PA","19103","Attorney","Self-Employed","Same as above.","","","NJ","","20111104",300,"",,"",,"Contribution"

@@ -1,2 +1,0 @@
-1776062,2011,6,"IC","PAC 1742","7720 Castor Avenue","","Philadelphia","PA","19152","","","","","","AK","","20111104",1500,"",,"",,"Donation"
-1776062,2011,6,"IC","Democratic City Committee","1421 Walnut St","","Philadelphia","PA","19101","","","","","","AK","","20111104",4025,"",,"",,"Election Day Expenses"

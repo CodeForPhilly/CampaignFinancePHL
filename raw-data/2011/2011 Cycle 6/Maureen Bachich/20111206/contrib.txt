@@ -1,3 +1,0 @@
-2011057,2011,6,"IB","Mark Alderman","775 Woodleaf Rd.","","Bryn Mawr","PA","19010","","","","","","AK","","20111107",250,"",,"",,"Contribution"
-2011057,2011,6,"IC","AFSME District Council 47 PAC Fund","1606 Walnut Street","","Philadelphia","PA","19103","","","","","","AK","","20111107",300,"",,"",,"Contribution"
-2011057,2011,6,"IC","Laborers District Council PAC Fund","665 No. Broad Street","","Philadelphia","PA","19123","","","","","","AK","","20111107",2500,"",,"",,"Contribution"

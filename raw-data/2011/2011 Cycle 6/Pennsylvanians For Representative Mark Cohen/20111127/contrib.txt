@@ -1,2 +1,0 @@
-8000074,2011,6,"IA","PA PT PAC","4028 Watters Lane","","Gibsonia","PA","15044","","","","","","AK","","20111105",125,"",,"",,"Monetary Contribution"
-8000074,2011,6,"IC","G G R Inc PAC","212 Locust Street","Suite 600","Harrisburg","PA","171011510","","","","","","AK","","20111117",500,"",,"",,"Monetary Contribution"

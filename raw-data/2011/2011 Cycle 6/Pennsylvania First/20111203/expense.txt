@@ -1,3 +1,0 @@
-1776340,2011,6,"Bucks Victory","PO Box 58247","","Doylestown","PA","18901","20111028",5000,"Donation",
-1776340,2011,6,"Committee For a better Northampton","45 Brianna Road","","Holland","PA","18966","20111031",5000,"Donation",
-1776340,2011,6,"Green for Philadelphia","PO Box 58247","","Philadelphia","PA","19102","20111108",10000,"donation",

@@ -1,8 +1,0 @@
-8500129,2011,6,"IA","Kenney For Council ","P.O.BOX 60065","","PHILA.","PA","19102","Councilman","City Council ","CITY COUNCIL ","CITY HALL","PHILADELPHIA ","PA","19107","20110916",200,"",,"",,"donation "
-8500129,2011,6,"IA","Schwartz for Congress","201 Leedom St. ","","Jenkintown ","PA","19046","Congressman ","Congressman ","U.S. Congress","Capital Building ","Washington ","DC","00000","20110512",200,"",,"",,"Donation "
-8500129,2011,6,"IA","Committee to Elect Charles Ehrlich Judge ","3324 W. Queen Lane ","","Philadelphia ","Pa","19129","Lawyer ","Lawyer ","3324 W. Queen Lane ","","Phila.","PA","19129","20110917",100,"",,"",,"Donation "
-8500129,2011,6,"IB","Wiliam J. Rubin ","8622 BRIDLE RD. ","","PHILA","PA","19115","self employed ","self employed","8622 BRIDLE RD ","","PHILA ","PA","19115","20110917",100,"",,"",,"donation "
-8500129,2011,6,"IC","Friends of 35th Ward Democratic ","620 ALLENGROVE ST. ","","PHILADELPHIA ","PA","19120","n/a ","n/a ","N/A ","","N/A ","PA","n/a ","20111020",320.97,"",,"",,"donation"
-8500129,2011,6,"IC","Kenney for Council ","P.O. Box 60065","","Phila","Pa","19102","Councilman ","Councilman ","City Hall ","","Phila","PA","19107","20111102",1000,"",,"",,"donation "
-8500129,2011,6,"IC","Friends of Bill Rubin ","P.O. Box 52146","","Phila","PA","19115","self employed ","self employed ","8622 Bridle Rd.","","Phila","PA","19115","20111107",700,"",,"",,"donation"
-8500129,2011,6,"IC","Democratic Campaign Committee ","1421 Walnut St.","","Phila ","Pa","19102","N/A","n/a ","n/a ","n/a","n/a","Pa","n/a ","20111104",7175,"",,"",,"donation"

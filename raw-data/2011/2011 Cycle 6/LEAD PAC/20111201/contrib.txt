@@ -1,2 +1,0 @@
-2009330,2011,6,"IC","Citizens for David Oh","5813 Thomas Avenue","","Philadelphia","PA","19143","","","","","","AK","","20111107",3000,"",,"",,"Contribution"
-2009330,2011,6,"IC","Nutter for Mayor","P.O. Box 58550","","Philadelphia","PA","19102","","","","","","AK","","20111107",10600,"",,"",,"Contribution"

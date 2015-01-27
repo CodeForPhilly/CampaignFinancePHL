@@ -1,3 +1,0 @@
-8700056,2011,6,"IC","Democrat City Committee","2301 Pennsylvania Ave","","Philadelphia","PA","19130","","","","","","AK","","20111104",4375,"",,"",,"GOTV"
-8700056,2011,6,"IC","Kenney for Council","P.O. Box 60065","","Philadelphia","PA","191022127","","","","","","AK","","20111101",1000,"",,"",,"GOTV"
-8700056,2011,6,"IC","Local Union 98 IBEW","1719 Spring Garden Street","","Philadelphia","PA","191303915","","","","","","AK","","20111103",2000,"",,"",,"GOTV"

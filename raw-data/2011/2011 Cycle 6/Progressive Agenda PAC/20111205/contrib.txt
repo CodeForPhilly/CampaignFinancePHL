@@ -1,3 +1,0 @@
-2004137,2011,6,"IC","Laborer's District Council of Phila and Vicinity","520 Delaware Ave, 2nd Fl","","Phila","PA","19123","","","","","","AK","","20111028",57500,"",,"",,"Contribution"
-2004137,2011,6,"IC","Shapiro/Richards for Commissioner","P.O. Box 241","","Abington","PA","19001","","","","","","AK","","20111103",15000,"",,"",,"Contribution"
-2004137,2011,6,"IC","Laborer's District Council of Phila and Vicinity","520 Delaware Ave, 2nd Fl","","Phila","PA","19123","","","","","","AK","","20111118",3750,"",,"",,"Contribution"

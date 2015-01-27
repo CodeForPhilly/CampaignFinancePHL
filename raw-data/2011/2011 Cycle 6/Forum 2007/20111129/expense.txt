@@ -1,2 +1,0 @@
-1776185,2011,6,"PNC Bank","1600 Market St.","","Philadelphia","PA","19103","20111101",17,"Service Fee",
-1776185,2011,6,"Cheltenham Printing","518 Ryers Avenue","","Cheltenham","PA","19012","20111109",424,"Advertising",

@@ -1,3 +1,0 @@
-2011174,2011,6,"Philadelphia Democratic City Committee","2301 Pennsylvania Ave","","Philadelphia","PA","19130","20111031",150,"Pre Election Dinner",
-2011174,2011,6,"Committee to Elect Christine Solomon for Traffic Court","7055 Dorcas St","","Philadelphia","PA","19111","20111102",250,"Fundraiser",
-2011174,2011,6,"New Generation PAC 1","","","Philadelphia","PA","19147","20111104",1000,"Fundraiser",

@@ -1,3 +1,0 @@
-8100237,2011,6,"IB","Tim Bruder","3667 Wyola Drive","","Newtown Square","PA","19073","","","","","","AK","","20110923",100,"",,"",,"contribution to PAC"
-8100237,2011,6,"ID","James Korman","2 Neshaminy Interplex","Suite 301","Trevose","PA","19053","real estate","Korman Residential","2 Neshaminy Interplex","Suite 301","Trevose","PA","19053","20111024",1000,"",,"",,"contribution to PAC"
-8100237,2011,6,"ID","Jonathan Lipner","POB 4970","","Philadelphia","PA","19119","real estate","Real Properties","POB 4970","","Philadelphia","PA","19119","20111116",598.5,"",,"",,"contribution to PAC"

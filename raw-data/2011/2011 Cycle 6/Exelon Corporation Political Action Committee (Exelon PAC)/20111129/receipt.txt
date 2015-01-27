@@ -1,2 +1,0 @@
-2001148,2011,6,"Friends of Jay Costa","314 Newport Rd","","Pittsburgh","PA","152213757","Stop Payment - Friends of Jay Costa","20111103",1000
-2001148,2011,6,"New Jersey Republican State Committee","150 West State Street","Suite 230","Trenton","NJ","08608","Void - New Jersey Republican State Committee","20111125",5000

@@ -1,3 +1,0 @@
-2002122,2011,6,"IC","I.B.E.W. COPE","900 Seventh Street, NW","","Washington","DC","20001","","","","","","PA","","20111104",10000,"",,"",,"Contribution"
-2002122,2011,6,"IC","IBEW Local 98 COPE Fund","1719 Spring Garden Street","","Philadelphia","PA","19130","","","","","","PA","","20111031",50000,"",,"",,"Contribution"
-2002122,2011,6,"IC","IBEW Local 98 COPE Fund","1719 Spring Garden Street","","Philadelphia","PA","19130","","","","","","PA","","20111031",50000,"",,"",,"Contribution"

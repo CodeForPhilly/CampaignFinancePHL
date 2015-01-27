@@ -1,6 +1,0 @@
-9700166,2011,6,"Montgomery County Republican Committee","314 E. Johnson Highway","Suite 200","Norristown","PA","19401","20111101",5000,"Political Contribution",
-9700166,2011,6,"Republican State Committee of Pennsylvania","112 State Street","","Harrisburg","PA","17101","20111102",6000,"Political Contribution",
-9700166,2011,6,"Committee to Elect Anne Covey Judge","31 North Sugan Road","","New Hope","PA","18938","20111104",1000,"Political Contribution",
-9700166,2011,6,"Vic Stabile for Judge","P.O. Box 308","","Drexel Hill","PA","19026","20111104",1000,"Political Contribution",
-9700166,2011,6,"Friends of Mike Gerber","P.O. Box 208","","Ambler","PA","19002","20111117",250,"Political Contribution",
-9700166,2011,6,"Friends of Ann Duke","P.O. Box 3188","","West Chester","PA","19381","20111117",250,"Political Contribution",

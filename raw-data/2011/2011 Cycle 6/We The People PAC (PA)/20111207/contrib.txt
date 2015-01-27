@@ -1,7 +1,0 @@
-2008320,2011,6,"IIF","Allyson Schwartz for Congress","PO Box 2232","","Jenkintown","PA","19046","","","","","","","","20111031",50,"",,"",,"Administrative Services"
-2008320,2011,6,"IC","Deloitte Federal PAC","Peter Brown","P.O. Box 365","Washington","DC","20044","","","","","","","","20111107",5000,"",,"",,""
-2008320,2011,6,"IB","Lauren Buckley","422 N Park Dr","","Arlington","VA","22203","Associate Director, Feder","","","","","","","20111101",100,"",,"",,""
-2008320,2011,6,"IB","Vanessa Procter","602 Tivoli Passage","","Alexandria","VA","22314","Director, Federal Governm","","","","","","","20111101",100,"",,"",,""
-2008320,2011,6,"ID","William Schuyler","505 Wolfe Street","","Alexandria","VA","223143729","","","","","","","","20111028",1000,"",,"",,""
-2008320,2011,6,"ID","Alvin Silverman","110 Redwood Dr","","Roslyn","NY","115762228","Attorney","Wien & Malkin, L.L.P","","","","","","20111107",5000,"",,"",,""
-2008320,2011,6,"ID","Robert D. Getzoff","311 9th Street SE","","Washington","DC","20003","Government Affairs","BNY Mellon","","","","","","20111122",500,"",,"",,""

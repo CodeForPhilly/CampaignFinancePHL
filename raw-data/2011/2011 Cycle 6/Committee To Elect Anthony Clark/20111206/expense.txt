@@ -1,2 +1,0 @@
-1776172,2011,6,"Keith Harris","2427 W Hagert Street","","Philadelphia","PA","19132","20111028",1500,"Consulting",
-1776172,2011,6,"Strassheim Graphic Design","333 N 15th","","Philadelphia","PA","19102","20111028",553,"Printing",

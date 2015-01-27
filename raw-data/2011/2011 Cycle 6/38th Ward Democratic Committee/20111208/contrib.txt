@@ -1,3 +1,0 @@
-1776095,2011,6,"IA","Citizen for Hughes","7478 Rhoads St.","","Philadelphia","PA","19151","","","","","","AK","","20111108",200,"",,"",,"contribution"
-1776095,2011,6,"IC","Make a Difference P.A.C","2131 Bainbridge","","Phila","PA","19146","","","","","","AK","","20111108",1000,"",,"",,"contribution"
-1776095,2011,6,"IC","Phila. Dem. City Committee","1421 Walnut St.","","Philadelphia","PA","19103","","","","","","AK","","20111104",3675,"",,"",,"contribution"

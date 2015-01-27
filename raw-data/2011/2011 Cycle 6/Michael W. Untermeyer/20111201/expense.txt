@@ -1,3 +1,0 @@
-1776296,2011,6,"Untermeyer for City Council","419 S. 2nd Street, Suite 307","","Philadelphia","PA","19147","20111115",1000,"Contribution",
-1776296,2011,6,"Untermeyer for City Council","419 S. 2nd Street, Suite 307","","Philadelphia","PA","19147","20111122",500,"Contribution",
-1776296,2011,6,"Untermeyer for City Council","419 S. 2nd Street, Suite 307","","Philadelphia","PA","19147","20111129",500,"Contribution",

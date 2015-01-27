@@ -1,4 +1,0 @@
-2011175,2011,6,"Racquet Club of Philadelphia","215 S 16th St","","Philadlephia","PA","19103","20111026",2845.04,"catering",
-2011175,2011,6,"Hare Brothers","629 S 42nd St","","Philadelphia","PA","19104","20111107",54,"printing",
-2011175,2011,6,"Denise M Furey","4256 Regent Square","","Philadelphia","PA","19104","20111026",190.01,"stamps, notary fees and stationary",
-2011175,2011,6,"University City Republican Committee","800 S St Bernard St","","Philadelphia","PA","19143","20111108",400,"election day expenses 27th, 46th and 51st wards",

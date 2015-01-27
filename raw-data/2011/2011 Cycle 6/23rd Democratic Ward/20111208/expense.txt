@@ -1,4 +1,0 @@
-1776222,2011,6,"23rd Democratic Ward","1223 Foulkrod Street","","Philadelphia","PA","19124","20111104",4950,"GOTV",
-1776222,2011,6,"Deni Playground Advisory Council","1381 Ruan Street","","Philadelphia","PA","19124","20111116",400,"Donation",
-1776222,2011,6,"Jeff Caleman","2378 Orthodox Street","","Philadelphia","PA","19124","20111104",250,"Election Night Dinner",
-1776222,2011,6,"Frannie Quinn","4359 Frankford Avenue","","Philadelphia","PA","19124","20111128",514,"Election Night Party",

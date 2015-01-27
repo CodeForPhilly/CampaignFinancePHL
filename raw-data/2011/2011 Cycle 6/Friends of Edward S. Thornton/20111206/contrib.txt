@@ -1,2 +1,0 @@
-1776036,2011,6,"IC","Local Union #98 I.B.E.W.","1719 Spring Garden Street","","Philadelphia","PA","19130","","","","","","AK","","20111104",4000,"",,"",,"donation"
-1776036,2011,6,"IC","PAC 1742","7720 Castor Avenue","","Philadelphia","PA","19152","","","","","","AK","","20111104",1500,"",,"",,"Donation"

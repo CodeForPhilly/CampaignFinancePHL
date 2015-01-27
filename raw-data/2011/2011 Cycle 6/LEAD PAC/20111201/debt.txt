@@ -1,2 +1,0 @@
-2009330,2011,6,"Cheltenham Printing","518 Ryers Avenue","Bldg #2, 1st Floor","Cheltenham","PA","19012","20111108",826.8,"Printing",
-2009330,2011,6,"Gran Enterprises","3609 N. 5th Street","","Philadelphia","PA","19140","20111108",730,"Printing",

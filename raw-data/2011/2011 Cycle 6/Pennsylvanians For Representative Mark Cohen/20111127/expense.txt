@@ -1,3 +1,0 @@
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20111106",13,"Reimburse for Notary-Sollenberger's",
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20111124",500,"Reimbursement Ducky Birts of 5/4/2011",
-8000074,2011,6,"Donald Wittenberg","105 Cliffwood Road","","Philadelphia","PA","19111","20111124",7.92,"Postage",

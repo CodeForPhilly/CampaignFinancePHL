@@ -1,8 +1,0 @@
-8300167,2011,6,"Petty Cash","1803 Spring Garden Street","","Philadelphia","PA","19130","20111026",1976.19,"Lunch, Gas & Parking 5/17/2011, PAC Mtg 4/27/11 and Phone Banks May & Oct 2011",
-8300167,2011,6,"Friends of Jennifer Mann","P.O. Box 391","","Harrisburg","PA","17108","20111026",1000,"Contribution",
-8300167,2011,6,"Friends of Marian B. Tasco","P.O. Box 27454","","Philadelphia","PA","19118","20111026",9000,"Contribution",
-8300167,2011,6,"Friends of Brian O'Neill","15209 Bernita Drive","","Philadelphia","PA","19116","20111026",6600,"Contribution",
-8300167,2011,6,"Primo's Hoagies Fishtown","1501 E. Susquehanna Avenue","","Philadelphia","PA","19125","20111107",239,"Hoagie Trays for Election Day 11/8/11",
-8300167,2011,6,"Friends of Alan Butkovitz","P.O. Box 45896","","Philadelphia","PA","19149","20111108",2500,"Fundraiser - 11/16/11",
-8300167,2011,6,"Michael Griffin","1803 Spring Garden Street","","Philadelphia","PA","19130","20111109",827.36,"Reimb. for Expenses for Election Day 11/8/11",
-8300167,2011,6,"Friends of Mike Schlossberg","944 N. 19th Street","","Allentown","PA","18104","20111117",500,"Reception 12/1/11",

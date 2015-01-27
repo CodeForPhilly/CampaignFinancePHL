@@ -1,6 +1,0 @@
-2001109,2011,6,"Field house Sports Bar","1150 Filbert Street","","Philadelphia","PA","19107","20111025",608.08,"Fundraiser",
-2001109,2011,6,"Democratic Campaign Committee","2301 Pennsylvania Ave.","","Philadelphia","PA","19130","20111031",300,"",
-2001109,2011,6,"Friends of 66A Ward","10222 E.Keswick Road","","Philadelphia","PA","19114","20111027",35,"",
-2001109,2011,6,"Democratic City Committee","2301 Pennsylvania Ave.","","Philadelphia","PA","","20111027",2000,"Election Day expenses",
-2001109,2011,6,"Liberty City Democratic Club","P.O. Box 5835","","Philadelphai","PA","19102","20111101",50,"fundraising",
-2001109,2011,6,"Wells Fargo","","","Philadelphia","PA","","20111029",12,"Returned Item fee",

@@ -1,2 +1,0 @@
-9900166,2011,6,"Hilton Harrisburg & Towers","One North Second St.","","Harrisburg","PA","17101","20111027",522,"Facility Rental - reim.",
-9900166,2011,6,"Kim's Deli","6201 Market St.","","Philadelphia","PA","19139","20111114",374,"Election Day expense - lunches",

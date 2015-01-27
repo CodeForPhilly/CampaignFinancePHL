@@ -1,4 +1,0 @@
-2011057,2011,6,"New Generation 1 PAC","1324 Alder Street","","Philadelphia","PA","19147","20111027",150,"Hole Sponsor-1st Ward Golf Outing",
-2011057,2011,6,"Democratic City Committee","23rd & Pennsylvania Ave.","","Philadelphia","PA","19130","20111031",150,"Contribution",
-2011057,2011,6,"Cash Withdrawal","248 Rector Street","","Philadelphia","PA","19128","20111107",3500,"Election Day Exps.Itemized List Included",
-2011057,2011,6,"298 Inc.","P.O.Box 37393","","Philadelphia","PA","19148","20111128",300,"Donation-Toys & Turkeys Fundraiser",

@@ -1,6 +1,0 @@
-8200512,2011,6,"David Oh, Council at Large","1700 Race St","1st Floor","Philadelphia","PA","19103","20111025",1000,"Contribution",
-8200512,2011,6,"Friends of the 66A Ward","10222 E Keswick Road","","Philadelphia","PA","19114","20111025",175,"Fundraiser tickets",
-8200512,2011,6,"New Generation 1 PAC","1324 Alder Street","","Philadelphia","PA","19147","20111025",150,"Contribution",
-8200512,2011,6,"Bobby 11","PO Box 65743","","Philadelphia","PA","19155","20111025",500,"Fundraiser tickets",
-8200512,2011,6,"Springfield Republican Party","PO Box 423","","Springfield","PA","19064","20111025",600,"Fundraiser tickets",
-8200512,2011,6,"Committee to Elect Christine Solomon","PO Box 423","","Philadelphia","PA","19111","20111102",500,"Contribution",

@@ -1,2 +1,0 @@
-2008338,2011,6,"JSPAN","1735 Market Street","","Philadelphia","PA","19103","20111031",1000,"Contibution",
-2008338,2011,6,"55th Ward Dem Exec Committee","","","Philadelphia","PA","","20111109",2500,"Contribution",

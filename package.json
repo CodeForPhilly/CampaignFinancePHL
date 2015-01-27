@@ -11,7 +11,14 @@
   "dependencies": {
     "array.prototype.find": "^1.0.0",
     "csv-parse": "0.0.6",
+    "express": "^4.11.1",
     "ftp": "^0.3.8",
+    "mongodb": "^1.4.29",
     "mongoose": "^3.8.21"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-nodemon": "^1.0.5",
+    "gulp-shell": "^0.2.11"
   }
 }

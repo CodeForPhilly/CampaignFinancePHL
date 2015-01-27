@@ -1,6 +1,0 @@
-1776286,2011,6,"Enterprise Rental","12th & Sansom St","","Philadelphia","PA","19103","Debit Return (Election Day Car Rental)","20111110",150.83
-1776286,2011,6,"Enterprise Rental","12th & Sansom St","","Philadelphia","PA","19103","Debit Return (Election Day Car Rental)","20111110",150.83
-1776286,2011,6,"Enterprise Rental","12th & Sansom Stst","","Philadelphia","PA","19103","Debit Return (Election Day Car Rental)","20111110",150.83
-1776286,2011,6,"Enterprise Rental","12th & Sansom Sts","","Philadelphia","PA","19103","Debit Return (Election Day Car Rental)","20111110",150.83
-1776286,2011,6,"Vista Print","Philadelphia","","Philadelphia","PA","","Debit Return From Printring services","20111027",26.99
-1776286,2011,6,"Sheraton (Phillips)","17th Race Sts","","Philadelphia","PA","19103","Deb return over charged 10/24 $354","20111025",35.8

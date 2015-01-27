@@ -1,4 +1,0 @@
-7900460,2011,6,"TEAMSTERS LOCAL UNION 500","3460 N DELAWARE AVE","SUITE 301","PHILADELPHIA","PA","19134","20111114",849.5,"2 days wages and benefits for November",
-7900460,2011,6,"TEAMSTERS JC 53 PAC","3460 N DELAWARE AVE","SUITE 310","PHILADELPHIA","PA","19134","20111114",128,"PAC for 4 weeks",
-7900460,2011,6,"31 Ward Repulican Executive Committee","2627 E Lehigh Ave","","Philadelphia","PA","19125","20111114",600,"Donation for Falll Cocktail party",
-7900460,2011,6,"Citizens for Judge Cabry","950 Bergdoll Avenue","","Boothwyn","PA","19061","20111114",250,"Donation to Campaign",

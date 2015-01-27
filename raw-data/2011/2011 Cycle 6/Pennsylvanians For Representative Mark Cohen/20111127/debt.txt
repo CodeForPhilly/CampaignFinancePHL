@@ -1,7 +1,0 @@
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20100904",3000,"Loan",
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20100922",254.15,"Reimburse Fund Raising Event",
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20101020",254.15,"Reinburse Fund Raising Event",
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20101212",1000,"Reimburse Cohen for Council",
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20110404",1000,"Reimburse Cohen for Council",
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20110510",250,"Reikmburse Contribution to Stephanie Singer for City Commissioner",
-8000074,2011,6,"Mark Cohen","1415 Brighton Street","","Philadelphia","PA","19111","20110601",494.8,"Reimburse Travel",

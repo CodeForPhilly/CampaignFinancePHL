@@ -1,2 +1,0 @@
-1776278,2011,6,"Lump Sum (non-PA) federal contributions","25 Massachusetts Avenue NW","Suite 440","Washington","DC","20001","20111128",50500,"Federal Contributions",
-1776278,2011,6,"Friends of Brian O'Neill","2000 Market Street","","Philadelphia","PA","19103","20111104",500,"Political Contribution",

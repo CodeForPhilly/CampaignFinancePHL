@@ -1,8 +1,0 @@
-2002299,2011,6,"American Express","PO Box 1270","","Newark","NJ","071011270","20111025",154.46,"Candidiate Meeting - Restaurant",
-2002299,2011,6,"PNC Bank","","","Philadelphia","PA","","20111025",5,"Bank Charge",
-2002299,2011,6,"Friends of Charlie McKeown","P.O. Box 387","","Cheltenham","PA","19012","20111103",500,"Cheltenham Township, PA Commissioner",
-2002299,2011,6,"Committee to Elect Judge Jimmy Lynn","925 Harvest Drive","PO Box 3010","Blue Bell","PA","19422","20111103",1000,"Contribution - PA Court of Common Pleas",
-2002299,2011,6,"Post Office Cafe","2696 Bridge Street","","Philadelphia","PA","19137","20111110",1400,"Election Day Expenses - Meals",
-2002299,2011,6,"Sportswear Plus, Inc.","4210 Burnt House Hill Road","","Doylestown","PA","18901","20111115",7071,"Election Day Expenses - Shirts",
-2002299,2011,6,"Plasterers Local 8 General Fund","2535 Orthodox Street","","Philadelphia","PA","191371624","20111115",28.5,"Reimbursement - Copying Costs",
-2002299,2011,6,"Plasterers Local 8 General Fund","2535 Orthodox Street","","Philadelphia","PA","191371624","20111115",12.02,"Reimbursement - Postage",

@@ -1,3 +1,0 @@
-1776274,2011,6,"Stephanie Singer","250 S 17TH ST","APT 701","PHILADELPHIA","PA","19103","20110509",8000,"In-kind loan for direct mail",
-1776274,2011,6,"Stephanie Singer","250 S 17th ST","Apt 701","Philadelphia","PA","19103","20110511",16000,"In-kind loan for direct mail",
-1776274,2011,6,"Stephanie Singer","250 S 17th ST","Apt 704","Philadelphia","PA","19103","20110926",6800,"Loan",

@@ -1,3 +1,0 @@
-8300035,2011,6,"Nutter for Mayor","42 South 15th Street","","Philadelphia","PA","19102","20111031",2000,"Political contribution",
-8300035,2011,6,"Boockvar for Judge","P.O. Box 60021","","Pittsburg","PA","15211","20111031",1000,"Political contribution",
-8300035,2011,6,"Novak Francella LLC","One Presidential Blvd, Ste 330","","Bala Cynwyd","PA","19004","20111031",550,"Accounting services",

@@ -1,3 +1,0 @@
-1776271,2011,6,"Friends of Bill Rubin","PO Box 52146","","Philadelphia","PA","19115","20111109",250,"PAC Contribution",
-1776271,2011,6,"Kennedy Printing","5534 Baltimore Avenue","","Philadelphia","PA","191433195","20111104",1295,"In-Kind contribution to Denny O'Brien's PAC to pay for campaign mailer",
-1776271,2011,6,"New Generation 1 PAC","1324 Alder Street","","Philadelphia","PA","19147","20111104",1000,"PAC contribution to 1st Ward",

@@ -1,2 +1,0 @@
-2009456,2011,6,"The Public Record","1323 S. Broad Street","","Philadelphia","PA","19147","20111128",100,"Ad -11/2011",
-2009456,2011,6,"Wells Fargo Bank","P.O. Box 6995","","Portland","OR","97228","20111128",4,"Bank service charges",

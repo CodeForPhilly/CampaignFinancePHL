@@ -1,2 +1,0 @@
-2007164,2011,6,"J. Scott O'Keefe","1500 Walnut Street","Suite 1100","Philadelphia","PA","19102","20110424",1000,"loan",
-2007164,2011,6,"J. Scott O'Keefe","1500 Walnut Street","Suite 1100","Philadelphia","PA","19102","20110504",2500,"loan",
