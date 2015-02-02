@@ -1,0 +1,29 @@
+<div class="jumbotron">
+  <h1>Mayoral Campaign 2011</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos maiores optio natus, similique eaque numquam repudiandae consequatur dolorem perspiciatis voluptatem nam eius vitae blanditiis ex esse! Nihil a eaque odio.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa adipisci quia debitis dolorum, perferendis fugit ab eos pariatur quam ipsa molestias modi voluptates perspiciatis reiciendis esse necessitatibus ad eligendi nobis.</p>
+  <p>
+  <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
+  </p>
+</div>
+<ul class="list-group" ng-controller="CandidatesSummaryCtrl">
+  <li class="list-group-item active">Candidates</li>
+  <li class="list-group-item candidate-summary" ng-repeat="candidate in candidates">
+    <div class="row">
+      <div class="col-sm-2">
+        <img ng-src="{{candidate.imageUrl}}" alt="{{candidate.fullName}}">
+        </div>
+      <div class="col-sm-4">
+        <h3>{{ candidate.firstName + ' ' + candidate.lastName }}</h3>
+        <div>
+          <span>Total Raised:</span>
+          <span>{{ candidate.totalRaised | currency : '$' :0 }}</span>
+        </div>
+        <div>
+          <span>Number of Itemized Contributions:</span>
+          <span>{{ candidate.numberOfContributions }}</span>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>

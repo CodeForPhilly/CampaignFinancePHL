@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 	nodemon = require('gulp-nodemon'),
 	shell = require('gulp-shell');
 
-gulp.task('default', function() {
+gulp.task('api', function() {
 	// place code for your default task here
 	nodemon({
 		script: 'api/server.js',
@@ -15,7 +15,19 @@ gulp.task('default', function() {
 	});
 });
 
-gulp.task('shorthand', shell.task([
-  'echo hello',
-  'echo world'
+gulp.task('web', function() {
+	// place code for your default task here
+	nodemon({
+		script: 'web/server.js',
+		ext: 'js',
+		env: { 'NODE_ENV': 'development' },
+		ignore: ['./build/**'],
+		nodeArgs: []
+	});
+	shell.task([
+		'chrome'])
+});
+
+gulp.task('load-data', shell.task([
+  'node raw-data-processor/index.js'
 ]));
