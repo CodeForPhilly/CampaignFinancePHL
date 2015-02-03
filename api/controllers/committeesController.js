@@ -2,7 +2,8 @@
 
 (function(committeeController){
 
-	var dataService = require('../data');
+	var	config = require('../config.js'),
+		dataService = require(config.dataModule);
 
 	committeeController.init = function(app){
 		app.get('/api/v1/committees', function(req, res){

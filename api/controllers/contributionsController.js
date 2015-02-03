@@ -2,7 +2,8 @@
 
 (function(contributionsController){
 
-	var dataService = require('../data');
+	var	config = require('../config.js'),
+		dataService = require(config.dataModule);
 
 	contributionsController.init = function(app){
 		app.get('/api/v1/contributions', function(req, res){

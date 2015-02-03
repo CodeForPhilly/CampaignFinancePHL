@@ -7,15 +7,26 @@ pg.connect(conString, function(err, client, done) {
   if(err) {
     return console.error('error fetching client from pool', err);
   }
-  client.query('SELECT * FROM candidates', function(err, result) {
-    //call `done()` to release the client back to the pool
-    done();
+  // client.query('SELECT reportedBy, SUM(amount) AS totalRaised FROM contributions GROUP BY reportedBy ORDER BY totalRaised DESC', function(err, result) {
+  //   //call `done()` to release the client back to the pool
+  //   //done();
 
-    if(err) {
-      return console.error('error running query', err);
-    }
-    console.log(result.rows[0]);
-    //output: 1
+  //   if(err) {
+  //     return console.error('error running query', err);
+  //   }
+  //   console.log(result.rows[0]);
+  //   console.log(result.rows[1]);
+  //   console.log(result.rows[2]);
+  //   console.log(result.rows[3]);
+  //   console.log(result.rows[4]);
+  //   //output: 1
+  // });
+
+  client.query('SELECT name, amount FROM contributions ORDER BY amount DESC LIMIT 10', function(err, results){
+    done();
+    console.log(results.rows);
   });
   
 });
+
+pg.end();
