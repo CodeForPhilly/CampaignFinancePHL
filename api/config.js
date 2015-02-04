@@ -2,7 +2,7 @@
 
 (function(config){
 
-	config.dataModule = '../data';
-	config.pgConnectionString = 'postgres://jeffersii:password1@localhost/open_disclosure_philly';
+	config.dataModule = '../data-postgres';
+	config.pgConnectionString = 'postgres://userid:password@localhost/open_disclosure_philly';
 
 }(module.exports));
