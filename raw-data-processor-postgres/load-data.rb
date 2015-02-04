@@ -14,9 +14,9 @@ contribs_sql = ''
 expenses_sql = ''
 receipts_sql = ''
 
-Dir.glob("**/*") do |x|
+Dir.glob("raw-data/**/*") do |x|
 	if File.file?(x)
-    if x.split('/').count == 4
+    #if x.split('/').count == 4
   		if x.include?('contrib')
   			OpdDataProcessor::process_file(x, committees, contribs_sql, conn)
       elsif x.include?('expense')
@@ -24,13 +24,13 @@ Dir.glob("**/*") do |x|
       elsif x.include?('receipt')
         OpdDataProcessor::process_file(x, committees, receipts_sql, conn)
   		end
-    else
-      puts "ERROR **** Bad path structure for #{x}"
-    end
+    #else
+      #puts "ERROR **** Bad path structure for #{x}"
+    #end
 	end
 end
 
-sql_file = File.new("../inserts.sql", 'w')
+sql_file = File.new("raw-data/inserts.sql", 'w')
 sql_file.puts("INSERT INTO contributions ( %s ) VALUES " % [OpdDataProcessor::CONTRIBUTIONS_COLS])
 sql_file.puts(contribs_sql[0...-2] + ';')
 

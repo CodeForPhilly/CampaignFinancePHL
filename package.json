@@ -1,5 +1,5 @@
 {
-  "name": "OpenDisclosurePhilly",
+  "name": "CampaignFinancePHL",
   "version": "0.0.0",
   "description": "",
   "main": "server.js",
@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/CfABrigadePhiladelphia/CampaignFinancePHL"
+  },
   "license": "ISC",
   "dependencies": {
     "array.prototype.find": "^1.0.0",

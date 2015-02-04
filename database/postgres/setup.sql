@@ -1,9 +1,9 @@
 \c postgres
 
-drop database if exists open_disclosure_philly;
-create database open_disclosure_philly;
+drop database if exists campaign_finance_phl;
+create database campaign_finance_phl;
 
-\c open_disclosure_philly
+\c campaign_finance_phl
 
 -- drop table if exists expenses;
 -- drop table if exists contributions;
@@ -14,7 +14,7 @@ create table candidates (
 	candidate_id serial PRIMARY KEY,
 	first_name varchar(40) NOT NULL,
 	last_name varchar(40) NOT NULL,
-	committee_id int NOT NULL
+	committee_id int NOT NULL references committees(committee_id)
 );
 
 create table committees (

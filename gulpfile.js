@@ -25,9 +25,11 @@ gulp.task('web', function() {
 		nodeArgs: []
 	});
 	shell.task([
-		'chrome'])
+		'chrome']);
 });
 
 gulp.task('load-data', shell.task([
-  'node raw-data-processor/index.js'
+	'psql -f database/postgres/setup.sql',
+	'ruby raw-data-processor-postgres/load-data.rb',
+	'psql -d open_disclosure_philly -f raw-data/inserts.sql'
 ]));
