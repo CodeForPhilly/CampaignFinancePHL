@@ -1,4 +1,4 @@
-#Open Disclosure Philly#
+#Campaign Finance PHL#
 
 A project to improve access to/report on/organize Philadelphia's public campaign finance data.
 
