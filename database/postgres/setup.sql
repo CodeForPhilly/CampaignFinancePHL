@@ -5,21 +5,17 @@ create database campaign_finance_phl;
 
 \c campaign_finance_phl
 
--- drop table if exists expenses;
--- drop table if exists contributions;
--- drop table if exists candidates;
--- drop table if exists committees;
-
-create table candidates (
-	candidate_id serial PRIMARY KEY,
-	first_name varchar(40) NOT NULL,
-	last_name varchar(40) NOT NULL,
-	committee_id int NOT NULL references committees(committee_id)
-);
-
 create table committees (
 	committee_id serial PRIMARY KEY,
 	name varchar(300) NOT NULL
+);
+
+create table candidates (
+	candidate_id serial PRIMARY KEY,
+	first_name varchar(40),
+	last_name varchar(40),
+	committee_id int references committees(committee_id),
+	image_url varchar(200)
 );
 
 create table contributions (

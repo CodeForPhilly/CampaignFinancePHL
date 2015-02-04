@@ -3,6 +3,6 @@
 (function(config){
 
 	config.dataModule = '../data-postgres';
-	config.pgConnectionString = 'postgres://userid:password@localhost/open_disclosure_philly';
+	config.pgConnectionString = 'postgres://jeffersii:password@localhost/campaign_finance_phl';
 
 }(module.exports));

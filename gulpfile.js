@@ -31,5 +31,5 @@ gulp.task('web', function() {
 gulp.task('load-data', shell.task([
 	'psql -f database/postgres/setup.sql',
 	'ruby raw-data-processor-postgres/load-data.rb',
-	'psql -d open_disclosure_philly -f raw-data/inserts.sql'
+	'psql -d campaign_finance_phl -f raw-data/inserts.sql'
 ]));

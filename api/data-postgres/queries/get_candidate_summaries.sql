@@ -1,0 +1,1 @@
+select can.first_name as first_name, can.last_name as last_name, can.image_url from candidates can;

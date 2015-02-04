@@ -4,7 +4,7 @@ require_relative './sql-strings'
 require_relative './file-processors.rb'
 
 # Get existing committees for foreign key constraints
-conn = PG.connect( dbname: 'open_disclosure_philly' )
+conn = PG.connect( dbname: 'campaign_finance_phl' )
 committeesResults = conn.exec( "SELECT committee_id, name FROM committees" )
 committees = []
 # Convert from PG::result to array of hashes so we can append to it
@@ -29,6 +29,8 @@ Dir.glob("raw-data/**/*") do |x|
     #end
 	end
 end
+
+conn.close();
 
 sql_file = File.new("raw-data/inserts.sql", 'w')
 sql_file.puts("INSERT INTO contributions ( %s ) VALUES " % [OpdDataProcessor::CONTRIBUTIONS_COLS])
