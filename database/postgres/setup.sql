@@ -38,7 +38,7 @@ create table contributions (
 	employerState varchar(20),
 	employerZip varchar(20),
 	datestring varchar(40),
-	amount money,
+	amount numeric(11, 2),
 	col19 varchar(40),
 	col20 varchar(40),
 	col21 varchar(40),
@@ -60,7 +60,7 @@ create table expenses (
 	state varchar(20),
 	zip varchar(20),
 	datestring varchar(40),
-	amount money,
+	amount numeric(11, 2),
 	description  varchar(200),
 	col1 varchar(20),
 	reportedBy varchar(200),
@@ -80,7 +80,7 @@ create table receipts (
 	zip varchar(20),
 	description varchar(200),
 	datestring varchar(40),
-	amount money,
+	amount numeric(11, 2),
 	reportedBy varchar(200),
 	committee_id int references committees(committee_id)
 );

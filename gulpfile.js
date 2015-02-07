@@ -8,7 +8,7 @@ gulp.task('api', function() {
 	// place code for your default task here
 	nodemon({
 		script: 'api/server.js',
-		ext: 'js',
+		ext: 'js sql',
 		env: { 'NODE_ENV': 'development' },
 		ignore: ['./build/**'],
 		nodeArgs: []
@@ -19,7 +19,7 @@ gulp.task('web', function() {
 	// place code for your default task here
 	nodemon({
 		script: 'web/server.js',
-		ext: 'js',
+		ext: 'html, js',
 		env: { 'NODE_ENV': 'development' },
 		ignore: ['./build/**'],
 		nodeArgs: []

@@ -4,9 +4,12 @@
 
 	function createCandidateSummary(result){
 		return {
+			id: result.candidate_id,
 			firstName: result.first_name,
 			lastName: result.last_name,
 			imageUrl: result.image_url,
+			totalRaised: result.total_raised,
+			numberOfContributions: result.number_of_contributions
 		};
 	}
 

@@ -9,7 +9,7 @@
 <ul class="list-group" ng-controller="CandidatesSummaryCtrl">
   <li class="list-group-item active">Candidates</li>
   <li class="list-group-item candidate-summary" ng-repeat="candidate in candidates">
-    <div class="row">
+    <a href="{{'candidates/' + candidate.id}}"><div class="row">
       <div class="col-sm-2">
         <img ng-src="images/{{candidate.imageUrl}}" alt="{{candidate.fullName}}">
         </div>
@@ -24,6 +24,6 @@
           <span>{{ candidate.numberOfContributions }}</span>
         </div>
       </div>
-    </div>
+    </div></a>
   </li>
 </ul>

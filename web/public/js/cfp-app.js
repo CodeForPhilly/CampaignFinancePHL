@@ -1,9 +1,9 @@
 'use strict';
 
 (function(angular){
-	var OdpApp = angular.module('OdpApp', ['ngRoute', 'ngResource']);
+	var CFPApp = angular.module('CFPApp', ['ngRoute', 'ngResource']);
 	
-	OdpApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
+	CFPApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
 		$locationProvider.html5Mode(true);
 		$routeProvider.when('/', {
 			templateUrl: 'partials/home.html',
@@ -11,16 +11,21 @@
 		}).when('/admin/committees', {
 			templateUrl: 'partials/admin/committees.html',
 			controller: 'AdminCommitteesCtrl'
+		}).when('/candidates/:id', {
+			templateUrl: 'partials/candidate-detail.html',
+			controller: 'CandidateCtrl'
 		});
 	}]);
 
-	OdpApp.controller('HomeCtrl', ['$scope', function($scope){
+	CFPApp.controller('HomeCtrl', ['$scope', function($scope){
 		$scope.hello = 'Hello, Angular';
 	}]);
 
+	CFPApp
 
 
-	OdpApp.service('candidatesSvc', ['$resource', function($resource){
+
+	CFPApp.service('candidatesSvc', ['$resource', function($resource){
 		var svc = {},
 			resource = $resource('http://localhost:3000/api/v1/candidates/summaries');
 
@@ -29,7 +34,7 @@
 		};
 		return svc;
 	}]);
-	OdpApp.service('committeesSvc', ['$resource', function($resource){
+	CFPApp.service('committeesSvc', ['$resource', function($resource){
 		var svc = {},
 			Resource = $resource('http://localhost:3000/api/v1/committees');
 
@@ -39,11 +44,11 @@
 		return svc;
 	}]);
 
-	OdpApp.controller('CandidatesSummaryCtrl', ['$scope', 'candidatesSvc', function($scope, candidatesSvc){
+	CFPApp.controller('CandidatesSummaryCtrl', ['$scope', 'candidatesSvc', function($scope, candidatesSvc){
 		$scope.candidates = candidatesSvc.getCandidateSummaries();
 	}]);
 
-	OdpApp.controller('AdminCommitteesCtrl', ['$scope', 'committeesSvc', function($scope, committeesSvc){
+	CFPApp.controller('AdminCommitteesCtrl', ['$scope', 'committeesSvc', function($scope, committeesSvc){
 		$scope.committees = committeesSvc.getCommittees();
 	}]);
 
