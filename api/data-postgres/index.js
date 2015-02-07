@@ -8,6 +8,7 @@
 		ModelFactory = require('./ModelFactory');
 	var conString = config.pgConnectionString;
 
+	// **** Candidates **** //
 
 	data.getCandidateSummaries = function(next) {
 		pg.connect(conString, function(err, client, done) {
@@ -22,9 +23,13 @@
 				var models = ModelFactory.createCandidateSummaries(results.rows);
 				next(null, models);
 			});
-
 		});
 		pg.end();
+	};
+
+	// **** Contributions **** //
+	data.getContributions = function(next) {
+		next('hey there');
 	};
 
 }(module.exports));

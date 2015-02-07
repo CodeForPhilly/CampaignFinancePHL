@@ -7,7 +7,6 @@
 
 	contributionsController.init = function(app){
 		app.get('/api/v1/contributions', function(req, res){
-
 			var filterParams = req.query;
 			console.log(filterParams);
 
@@ -21,7 +20,6 @@
 		});
 
 		app.get('/api/v1/contributions/totals', function(req, res){
-
 			var committee = req.query.committee;
 
 			dataService.getContributionsTotal(committee, function(err, results){
