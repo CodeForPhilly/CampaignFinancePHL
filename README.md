@@ -31,3 +31,7 @@ Your Postgres server should now have a campaign_finance_phl database full of cam
 	- [ ] Mapping
 	- [ ] Spending by unaffiliated committees (need to figure this out)
 - [ ] Create an admin frontend to manage candidates and other manual entities
+
+###Details###
+
+- Candidate-self-funded contributions are identified with a separate data-update. Need to run this after every dislosure deadline.

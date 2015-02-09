@@ -1,0 +1,1 @@
+SELECT candidate_id, first_name, last_name from candidates where candidate_id = $1;

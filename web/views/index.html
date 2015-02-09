@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap-theme.css">
 	<link rel="stylesheet" href="css/main.css">
 </head>
-<body>
+<body ng-app="CFPApp" >
 <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
@@ -23,7 +23,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
+            <li class="active"><a href="/">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
             <li class="dropdown">
@@ -50,15 +50,16 @@
 	
 	<div class="container">
 
-		<div ng-app="CFPApp" ng-view></div>
+		<div ui-view></div>
 
-    </div> <!-- /container -->
+  </div> <!-- /container -->
 
 	<!-- the js -->
 	<script src="lib/jquery/dist/jquery.js"></script>
 	<script src="lib/bootstrap/dist/js/bootstrap.js"></script>
-	<script src="lib/angular/angular.js"></script>
-	<script src="lib/angular-route/angular-route.js"></script>
+  <script src="lib/angular/angular.js"></script>
+	<script src="lib/angular-ui-router/release/angular-ui-router.js"></script>
+	<!--<script src="lib/angular-route/angular-route.js"></script> -->
 	<script src="lib/angular-resource/angular-resource.js"></script>
 	<script src="js/cfp-app.js"></script>
 

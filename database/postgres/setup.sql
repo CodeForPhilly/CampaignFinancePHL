@@ -14,8 +14,7 @@ create table candidates (
 	candidate_id serial PRIMARY KEY,
 	first_name varchar(40),
 	last_name varchar(40),
-	committee_id int references committees(committee_id),
-	image_url varchar(200)
+	committee_id int references committees(committee_id)
 );
 
 create table contributions (
@@ -85,6 +84,10 @@ create table receipts (
 	committee_id int references committees(committee_id)
 );
 
+CREATE TABLE self_funded_names (
+	candidate_id INTEGER,
+	name VARCHAR(200))
+;
 
 
 

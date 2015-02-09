@@ -8,8 +8,8 @@
   },
   "author": "",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/CfABrigadePhiladelphia/CampaignFinancePHL"
+    "type": "git",
+    "url": "https://github.com/CfABrigadePhiladelphia/CampaignFinancePHL"
   },
   "license": "ISC",
   "dependencies": {
@@ -27,6 +27,7 @@
     "bower": "^1.3.12",
     "gulp": "^3.8.10",
     "gulp-nodemon": "^1.0.5",
-    "gulp-shell": "^0.2.11"
+    "gulp-shell": "^0.2.11",
+    "jasmine-node": "^1.14.5"
   }
 }

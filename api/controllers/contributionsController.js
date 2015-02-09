@@ -7,29 +7,27 @@
 
 	contributionsController.init = function(app){
 		app.get('/api/v1/contributions', function(req, res){
-			var filterParams = req.query;
-			console.log(filterParams);
-
-			dataService.getContributions(function(err, results){
+			var queryParams = req.query;
+			dataService.getContributions(queryParams, function(err, results){
 				if (err) {
-					res.send(500, 'We\'re having some trouble right now...');
+					res.send(500, err);
 				} else {
-					res.send(results);
+					res.set('X-Total-Count', results.count);
+					res.send(results.models);
 				}
 			});
 		});
 
-		app.get('/api/v1/contributions/totals', function(req, res){
-			var committee = req.query.committee;
-
-			dataService.getContributionsTotal(committee, function(err, results){
-				if (err) {
-					res.send(500, 'We\'re having some trouble right now...');
+		app.get('/api/v1/contributions/philly', function(req, res){
+			var candidateId = req.query.committee_id;
+			dataService.getInPhillyContribRatio(candidateId, function(err, result){
+				if (err){
+					res.send(500, err);
 				} else {
-					res.send(results);
+					res.send(result);
 				}
 			});
-		});	
+		});
 	};
 
 }(module.exports));

@@ -1,5 +1,46 @@
 <div class="row">
 	<div class="col-md-12">
-		TODO: request top 10 contributors (?)
+		<h1>{{candidate.firstName + ' ' + candidate.lastName}}</h1>
+	</div>
+	<table class="table table-bordered table-striped">
+		<tr>
+			<th>
+				Total Raised
+			</th>
+			<th>-</th>
+			<th>Expenditures</th>
+			<th>=</th>
+			<th>Available Balance</th>
+		</tr>
+		<tr>
+			<td colspan="2">{{totals.in | currency : '$' :0}}</td>
+			<td colspan="2">{{totals.out | currency : '$' :0}}</td>
+			<td>{{(totals.in - totals.out) | currency : '$' :0}}</td>
+		</tr>
+	</table>
+</div>
+<div class="row">
+	<div class="col-md-6">
+		<h3>Contributions</h3>
+		<div> Total: {{contribsCount}}</div>
+		<div>
+			<span ng-click="contribsPerPage = 20">20</span>
+			<span ng-click="contribsPerPage = 50">50</span>
+			<span ng-click="contribsPerPage = 100">100</span>
+		</div>
+		<div>
+			<button class='btn btn-default' ng-click='currentContribPage = currentContribPage ? currentContribPage - 1 : 0'>prev</button>
+			<button class='btn btn-default' ng-click='currentContribPage = currentContribPage + 1'>next</button>
+		</div>		
+		<div>
+			Filter: <input type="text" ng-model="contribFilter">
+		</div>
+		<ul>
+			<li ng-repeat="contribution in contributions | filter: contribFilter | 
+				offset: currentContribPage*contribsPerPage |
+				limitTo: contribsPerPage">
+				{{contribution.name}} - {{contribution.amount}}
+			</li>
+		</ul>
 	</div>
 </div>
