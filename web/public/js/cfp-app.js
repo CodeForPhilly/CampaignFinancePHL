@@ -46,11 +46,15 @@
 		function($scope, $stateParams, candidatesSvc, contributionsSvc){
 		var id = $stateParams.id;
 		$scope.candidate = candidatesSvc.getCandidate(id);
-		$scope.contribsPerPage = 3;
+		$scope.contribsPerPage = 10000;
 		$scope.currentContribPage = 0;
+		$scope.contribsOrderBy = null;
 		$scope.contributions = contributionsSvc.getContributionsForCandidate(id, function(value, headers){
 			$scope.contribsCount = headers['X-Total-Count'];
 		});
+
+
+
 		$scope.totals = candidatesSvc.getTotals(id);
 	}]);
 
