@@ -7,7 +7,13 @@
 
 	contributionsController.init = function(app){
 		app.get('/api/v1/contributions', function(req, res){
-			var queryParams = req.query;
+			var rawQueryParams = req.query,
+				queryParams = {};
+				
+			for (var param in rawQueryParams){
+				var underscoredParam = param.replace(/([A-Z])/g, function($1){return '_'+$1.toLowerCase();});
+				queryParams[underscoredParam] = rawQueryParams[param];
+			}
 			dataService.getContributions(queryParams, function(err, results){
 				if (err) {
 					res.send(500, err);

@@ -8,7 +8,7 @@ contribCitiesUpdated = conn.exec( update_city_sql )
 
 
 # Identify self-funded contributions
-candidate_self_funding = conn.exec("SELECT candidate_id, 
+# candidate_self_funding = conn.exec("SELECT candidate_id, 
 
 
 

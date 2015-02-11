@@ -12,7 +12,7 @@
 		} else {
 			whereClause += ' AND ';
 		}
-		whereClause += allowedParam + ' = $' + (idx + 1);
+		whereClause += allowedParam + ' = $' + idx;
 		paramValues.push(requestedParams[allowedParam]);
 
 		return whereClause;
@@ -50,7 +50,6 @@
 			paramValues = [],
 			paramIdx = 0;
 		defaultPageSize = configPageSize ? configPageSize : defaultPageSize;
-
 		if (allowedParams) {
 			pagingResult = handlePaging(allowedParams, requestedParams, paramValues);
 			if (pagingResult){
@@ -59,9 +58,10 @@
 				paramIdx = pagingResult.paramIdx;
 			}
 
-			allowedParams.forEach(function(allowedParam, idx) {
+			allowedParams.forEach(function(allowedParam) {
 				if (requestedParams.hasOwnProperty(allowedParam)) {
-					whereClause = processWhereParam(whereClause, paramValues, allowedParam, idx, requestedParams);
+					paramIdx++;
+					whereClause = processWhereParam(whereClause, paramValues, allowedParam, paramIdx, requestedParams);
 				}
 			});
 		}

@@ -11,8 +11,9 @@ Grabbing Philly campaign finance data from the city's ftp store `ftp://ftp.phila
 2. Get a recent version of Ruby working on your machine
 3. Download and install <a href='http://nodejs.org/' target='_blank'>Node.js</a>
 4. Change to the project directory and run `npm install` to get dependencies
-5. Install Postgres locally and start your server
-6. Execute `gulp load-data` in the director
+5. Install gulp globally with `npm install -g gulp` (run as `sudo npm install -g gulp` if needed)
+6. Install Postgres locally and start your server
+7. Execute `gulp load-data` from within the project directory
 
 Your Postgres server should now have a campaign_finance_phl database full of campaign finance data.
 

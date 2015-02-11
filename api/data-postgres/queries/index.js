@@ -10,9 +10,17 @@
 	queries.selectCandidate = fs.readFileSync(__dirname + '/get_candidate.sql').toString();
 
 	queries.selectContributions = function(requestedQueryParams){
-		var queryText = fs.readFileSync(__dirname + '/get_contributions.sql').toString(),
-			allowedQueryParams = ['page', 'page_size', 'committee_id', 'city'],
-			result = qb.setUpQuery(queryText, allowedQueryParams, requestedQueryParams);
+		var queryText, 
+			allowedQueryParams = ['page', 'page_size', 'committee_id', 'city', 'candidate_id'],
+			result;
+
+		if (requestedQueryParams.candidate_id){
+			queryText = fs.readFileSync(__dirname + '/get_contributions_by_candidate.sql').toString();
+		} else {
+			queryText = fs.readFileSync(__dirname + '/get_contributions.sql').toString();
+		}
+
+		result = qb.setUpQuery(queryText, allowedQueryParams, requestedQueryParams);
 		return result;
 	};
 
